@@ -1,0 +1,50 @@
+Aquesta obra (materials didàctics del mòdul MP0222 · Sistemes operatius monolloc)
+es publica sota la llicència
+
+    Creative Commons Reconeixement-NoComercial-CompartirIgual 4.0 Internacional
+    (CC BY-NC-SA 4.0)
+
+Sou lliure de:
+
+  - Compartir  — copiar i redistribuir el material en qualsevol mitjà i format.
+  - Adaptar    — remesclar, transformar i crear a partir del material.
+
+Amb les condicions següents:
+
+  - Reconeixement (BY)  — Cal reconèixer-ne l'autoria, proporcionar un enllaç a la
+    llicència i indicar si s'han fet canvis.
+  - No comercial (NC)   — No es pot fer servir el material amb finalitats comercials.
+  - Compartir igual (SA) — Si es remescla o transforma el material, cal difondre les
+    creacions derivades amb la mateixa llicència que l'obra original.
+
+Text legal complet de la llicència:
+  https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.ca
+Resum llegible:
+  https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ca
+
+--------------------------------------------------------------------------------
+Materials de tercers
+--------------------------------------------------------------------------------
+
+Aquesta base de coneixements és una elaboració pròpia amb finalitat docent. La
+seqüència de continguts segueix el currículum oficial del cicle SMX (Decret
+193/2013 i document d'orientacions IC10 del Departament d'Educació de la
+Generalitat de Catalunya), que és informació pública.
+
+El contingut s'ha redactat de nou a partir de:
+  - el llibre "Sistemas operativos monopuesto" (F. J. Muñoz López, McGraw-Hill),
+    utilitzat com a referència d'estructura i com a font consultada a l'empara
+    del dret de cita;
+  - documentació oficial de fabricants i projectes (Microsoft Learn, pàgines de
+    manual de Linux, documentació d'Ubuntu / Debian / Red Hat), amb les seves
+    llicències respectives.
+
+No s'hi reprodueixen textos ni figures amb drets d'autor de tercers. Si
+incorporeu captures de pantalla, imatges o fragments de tercers, reviseu-ne la
+llicència abans de publicar-los.
+
+--------------------------------------------------------------------------------
+Nota: si preferiu una obertura màxima (per exemple per a reutilització entre
+centres sense restricció comercial), substituïu aquest fitxer per CC BY-SA 4.0.
+Si el repositori ha de ser privat, aquesta llicència igualment és vàlida.
+--------------------------------------------------------------------------------

@@ -1,0 +1,20 @@
+# Sistema operatiu / gestor de fitxers
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Temporals i còpies
+*.tmp
+*.bak
+/scratchpad/
+
+# Python (per si s'executa el generador localment)
+__pycache__/
+*.pyc
+.venv/

@@ -1,0 +1,9 @@
+# Normalitza els finals de línia a LF dins del repositori
+* text=auto eol=lf
+*.md   text eol=lf
+*.html text eol=lf
+*.svg  text eol=lf
+*.py   text eol=lf
+
+# index.html es genera a partir dels .md amb tools/gen_index.py
+index.html linguist-generated=true
