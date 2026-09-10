@@ -7,17 +7,30 @@
 > **RA2.** Instal·la sistemes operatius, relacionant-ne les característiques amb el maquinari de l'equip i el
 > programari d'aplicació.
 
-## Temes del bloc
+Aquest bloc es treballa en dues parts: primer **RA2.1 · Linux** (teoria comuna + instal·lació de Linux) i
+després **RA2.2 · Windows** (repàs comparatiu més breu, amb el procediment propi de Windows).
+
+## RA2.1 · Linux (i multiplataforma)
+
+Teoria comuna a qualsevol SO (requisits, particions, fases, gestors d'arrencada, llicències) i instal·lació de Linux.
 
 | # | Tema | Criteris d'avaluació |
 |---|---|---|
-| 01 | [Requisits tècnics i compatibilitat del maquinari](01-requisits-i-compatibilitat.md) | CA1, CA2, CA3 |
-| 02 | [Particions i estructura del disc](02-particions-i-estructura-del-disc.md) | CA5, CA6 |
-| 03 | [El pla i les fases d'instal·lació](03-pla-i-fases-d-instal-lacio.md) | CA4, CA5, CA6, CA8 |
-| 04 | [El gestor d'arrencada](04-gestor-d-arrencada.md) | CA7 |
-| 05 | [Instal·lació de Windows](05-instal-lacio-de-windows.md) | CA5, CA6, CA8 |
-| 06 | [Instal·lació de Linux](06-instal-lacio-de-linux.md) | CA5, CA6, CA8 |
-| 07 | [Llicències, actualització i incidències](07-llicencies-actualitzacio-i-incidencies.md) | CA8, CA9, CA10 |
+| 1 | [Requisits tècnics i compatibilitat del maquinari](01-requisits-i-compatibilitat.md) | CA1, CA2, CA3 |
+| 2 | [Particions i estructura del disc](02-particions-i-estructura-del-disc.md) | CA5, CA6 |
+| 3 | [El pla i les fases d'instal·lació](03-pla-i-fases-d-instal-lacio.md) | CA4, CA5, CA6, CA8 |
+| 4 | [El gestor d'arrencada](04-gestor-d-arrencada.md) | CA7 |
+| 5 | [Instal·lació de Linux](06-instal-lacio-de-linux.md) | CA5, CA6, CA8 |
+| 6 | [Llicències, actualització i incidències](07-llicencies-actualitzacio-i-incidencies.md) | CA8, CA9, CA10 |
+
+## RA2.2 · Windows
+
+Repàs comparatiu centrat en Windows 10/11, amb els mateixos criteris d'avaluació.
+
+| Tema | Criteris d'avaluació |
+|---|---|
+| [Instal·lació de Windows](windows.md) | CA1–CA10 |
+| [Instal·lació de Windows — guia pas a pas de l'assistent](05-instal-lacio-de-windows.md) | CA5, CA6, CA8 |
 
 ## Idees força del bloc
 

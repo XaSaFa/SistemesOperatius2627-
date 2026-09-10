@@ -7,15 +7,28 @@
 > **RA3.** Realitza tasques bàsiques de configuració de sistemes operatius, interpretant-ne requeriments i
 > descrivint-ne els procediments seguits.
 
-## Temes del bloc
+Aquest bloc es treballa en dues parts: primer **RA3.1 · Linux** (ruta principal i detallada) i després
+**RA3.2 · Windows** (repàs comparatiu més breu, amb les eines pròpies del sistema).
+
+## RA3.1 · Linux (i multiplataforma)
+
+Desenvolupament a fons. Els requadres de cada tema comparen amb Windows.
 
 | # | Tema | Criteris d'avaluació |
 |---|---|---|
-| 01 | [Arrencada, parada i sessions](01-arrencada-parada-i-sessions.md) | CA1 |
-| 02 | [Interfícies d'usuari i preferències de l'entorn](02-interficies-d-usuari-i-preferencies.md) | CA1, CA2 |
-| 03 | [Gestió de discos i sistemes d'arxius](03-gestio-de-discos-i-sistemes-d-arxius.md) | CA3 |
-| 04 | [Programari, actualitzacions i automatització de tasques](04-programari-actualitzacions-i-automatitzacio.md) | CA5, CA6, CA7, CA8 |
-| 05 | [Recuperació del sistema operatiu](05-recuperacio-del-so.md) | CA4 |
+| 1 | [Arrencada, parada i sessions](01-arrencada-parada-i-sessions.md) | CA1 |
+| 2 | [Interfícies d'usuari i preferències de l'entorn](02-interficies-d-usuari-i-preferencies.md) | CA1, CA2 |
+| 3 | [Gestió de discos i sistemes d'arxius](03-gestio-de-discos-i-sistemes-d-arxius.md) | CA3 |
+| 4 | [Programari, actualitzacions i automatització de tasques](04-programari-actualitzacions-i-automatitzacio.md) | CA5, CA6, CA7, CA8 |
+| 5 | [Recuperació del sistema operatiu](05-recuperacio-del-so.md) | CA4 |
+
+## RA3.2 · Windows
+
+Repàs comparatiu centrat en Windows 10/11, amb els mateixos criteris d'avaluació.
+
+| Tema | Criteris d'avaluació |
+|---|---|
+| [Configuració a Windows](windows.md) | CA1–CA8 |
 
 ## Idees força del bloc
 

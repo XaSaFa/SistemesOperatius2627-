@@ -7,15 +7,28 @@
 > **RA4.** Realitza operacions bàsiques d'administració de sistemes operatius, interpretant requeriments i
 > optimitzant el sistema per al seu ús.
 
-## Temes del bloc
+Aquest bloc es treballa en dues parts: primer **RA4.1 · Linux** (ruta principal i detallada) i després
+**RA4.2 · Windows** (repàs comparatiu més breu, amb les eines pròpies del sistema).
+
+## RA4.1 · Linux (i multiplataforma)
+
+Desenvolupament a fons. Els requadres de cada tema comparen amb Windows.
 
 | # | Tema | Criteris d'avaluació |
 |---|---|---|
-| 01 | [Usuaris, grups i contrasenyes](01-usuaris-grups-i-contrasenyes.md) | CA1 |
-| 02 | [Permisos i recursos compartits](02-permisos-i-recursos-compartits.md) | CA2, CA8 |
-| 03 | [Gestió de processos](03-gestio-de-processos.md) | CA3 |
-| 04 | [Serveis del sistema](04-serveis-del-sistema.md) | CA4 |
-| 05 | [Monitoratge, rendiment i registres](05-monitoratge-rendiment-i-registres.md) | CA5, CA6, CA7, CA9 |
+| 1 | [Usuaris, grups i contrasenyes](01-usuaris-grups-i-contrasenyes.md) | CA1 |
+| 2 | [Permisos i recursos compartits](02-permisos-i-recursos-compartits.md) | CA2, CA8 |
+| 3 | [Gestió de processos](03-gestio-de-processos.md) | CA3 |
+| 4 | [Serveis del sistema](04-serveis-del-sistema.md) | CA4 |
+| 5 | [Monitoratge, rendiment i registres](05-monitoratge-rendiment-i-registres.md) | CA5, CA6, CA7, CA9 |
+
+## RA4.2 · Windows
+
+Repàs comparatiu centrat en Windows 10/11, amb els mateixos criteris d'avaluació.
+
+| Tema | Criteris d'avaluació |
+|---|---|
+| [Administració a Windows](windows.md) | CA1–CA9 |
 
 ## Idees força del bloc
 
