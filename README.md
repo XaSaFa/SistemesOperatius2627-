@@ -16,5 +16,5 @@
 
 - **[Currículum oficial](00-referencia/01-curriculum-oficial.md)** — resultats d'aprenentatge, criteris d'avaluació i continguts del mòdul (text del currículum).
 - **[Glossari](00-referencia/02-glossari.md)** — termes clau ordenats alfabèticament, amb enllaç al tema on s'expliquen.
-- [Fonts i bibliografia](00-referencia/03-fonts-i-bibliografia.md) — llibres i documentació oficial utilitzats, amb enllaços.
+
 
