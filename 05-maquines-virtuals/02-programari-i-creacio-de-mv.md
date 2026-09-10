@@ -1,4 +1,4 @@
-[⬅ Anterior: Virtualització — conceptes](01-virtualitzacio-conceptes.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md)
+[⬅ Anterior: Virtualització — conceptes](01-virtualitzacio-conceptes.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Bloc següent: Configuració ➡](../03-configuracio-basica/00-index.md)
 
 # 2. Programari de virtualització i creació de màquines virtuals
 
@@ -136,4 +136,4 @@ compartides, hora sincronitzada, ratolí integrat.
 
 ---
 
-[⬅ Anterior: Virtualització — conceptes](01-virtualitzacio-conceptes.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md)
+[⬅ Anterior: Virtualització — conceptes](01-virtualitzacio-conceptes.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Bloc següent: Configuració ➡](../03-configuracio-basica/00-index.md)

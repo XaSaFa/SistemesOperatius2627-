@@ -1,4 +1,4 @@
-[⬅ Bloc anterior: Caracterització](../01-caracteritzacio-dels-so/00-index.md) · [🏠 Índex general](../README.md) · [Bloc següent: Configuració ➡](../03-configuracio-basica/00-index.md)
+[⬅ Bloc anterior: Configuració](../03-configuracio-basica/00-index.md) · [🏠 Índex general](../README.md)
 
 # Bloc 02 · Instal·lació de sistemes operatius (RA2)
 

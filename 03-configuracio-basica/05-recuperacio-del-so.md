@@ -1,4 +1,4 @@
-[⬅ Anterior: Programari i automatització](04-programari-actualitzacions-i-automatitzacio.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Bloc següent: Administració ➡](../04-administracio-del-so/00-index.md)
+[⬅ Anterior: Programari i automatització](04-programari-actualitzacions-i-automatitzacio.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Bloc següent: Instal·lació ➡](../02-instal-lacio-de-so/00-index.md)
 
 # 5. Recuperació del sistema operatiu
 
@@ -129,4 +129,4 @@ l'arrel en lectura-escriptura (`mount -o remount,rw /`) i executar `passwd usuar
 
 ---
 
-[⬅ Anterior: Programari i automatització](04-programari-actualitzacions-i-automatitzacio.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Bloc següent: Administració ➡](../04-administracio-del-so/00-index.md)
+[⬅ Anterior: Programari i automatització](04-programari-actualitzacions-i-automatitzacio.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Bloc següent: Instal·lació ➡](../02-instal-lacio-de-so/00-index.md)

@@ -17,14 +17,16 @@ BASE = os.path.dirname(HERE)                      # arrel del repositori
 SKIP_DIRS = {".git", "tools", "node_modules", ".github", "assets-src"}
 SKIP_FILES = {"CONTRIBUTING.md", "PUBLICACIO.md"}  # docs del repo, no de la base de coneixements
 
+# L'ordre d'aquest diccionari fixa l'ordre del menú lateral i de la navegació
+# Anterior/Següent: RA1 -> RA4 -> RA5 -> RA3 -> RA2 (ordre del curs).
 GROUPS = {
     "":                          "Inici",
     "00-referencia":             "Referència",
     "01-caracteritzacio-dels-so":"RA1 · Caracterització dels SO",
-    "02-instal-lacio-de-so":     "RA2 · Instal·lació de SO",
-    "03-configuracio-basica":    "RA3 · Configuració bàsica",
     "04-administracio-del-so":   "RA4 · Administració del SO",
     "05-maquines-virtuals":      "RA5 · Màquines virtuals",
+    "03-configuracio-basica":    "RA3 · Configuració bàsica",
+    "02-instal-lacio-de-so":     "RA2 · Instal·lació de SO",
 }
 GROUP_ORDER = list(GROUPS.keys())
 

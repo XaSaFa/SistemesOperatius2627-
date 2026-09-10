@@ -1,4 +1,4 @@
-[🏠 Índex general](../README.md) · [Bloc següent: Instal·lació ➡](../02-instal-lacio-de-so/00-index.md)
+[🏠 Índex general](../README.md) · [Bloc següent: Administració ➡](../04-administracio-del-so/00-index.md)
 
 # Bloc 01 · Caracterització dels sistemes operatius (RA1)
 

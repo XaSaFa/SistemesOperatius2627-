@@ -1,4 +1,4 @@
-[⬅ Bloc anterior: Instal·lació](../02-instal-lacio-de-so/00-index.md) · [🏠 Índex general](../README.md) · [Bloc següent: Administració ➡](../04-administracio-del-so/00-index.md)
+[⬅ Bloc anterior: Màquines virtuals](../05-maquines-virtuals/00-index.md) · [🏠 Índex general](../README.md) · [Bloc següent: Instal·lació ➡](../02-instal-lacio-de-so/00-index.md)
 
 # Bloc 03 · Configuració bàsica del sistema operatiu (RA3)
 

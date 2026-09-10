@@ -1,4 +1,4 @@
-[⬅ Bloc anterior: Configuració](../03-configuracio-basica/00-index.md) · [🏠 Índex general](../README.md) · [Bloc següent: Màquines virtuals ➡](../05-maquines-virtuals/00-index.md)
+[⬅ Bloc anterior: Caracterització](../01-caracteritzacio-dels-so/00-index.md) · [🏠 Índex general](../README.md) · [Bloc següent: Màquines virtuals ➡](../05-maquines-virtuals/00-index.md)
 
 # Bloc 04 · Administració del sistema operatiu (RA4)
 

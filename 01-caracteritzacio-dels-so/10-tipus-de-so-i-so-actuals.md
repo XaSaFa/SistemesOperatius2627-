@@ -1,4 +1,4 @@
-[⬅ Anterior: Tipus de sistemes d'arxius](09-tipus-de-sistemes-d-arxius.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Bloc següent: Instal·lació ➡](../02-instal-lacio-de-so/00-index.md)
+[⬅ Anterior: Tipus de sistemes d'arxius](09-tipus-de-sistemes-d-arxius.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Bloc següent: Administració ➡](../04-administracio-del-so/00-index.md)
 
 # 10. Tipus de sistemes operatius i SO actuals
 
@@ -95,4 +95,4 @@ Windows 3.x) vs. **expropiativa / *preemptive*** (el SO retira la CPU quan cal �
 
 ---
 
-[⬅ Anterior: Tipus de sistemes d'arxius](09-tipus-de-sistemes-d-arxius.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Bloc següent: Instal·lació ➡](../02-instal-lacio-de-so/00-index.md)
+[⬅ Anterior: Tipus de sistemes d'arxius](09-tipus-de-sistemes-d-arxius.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Bloc següent: Administració ➡](../04-administracio-del-so/00-index.md)
