@@ -1,4 +1,6 @@
-[⬅ Anterior: Gestió de processos](03-gestio-de-processos.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Següent: Monitoratge i registres ➡](05-monitoratge-rendiment-i-registres.md)
+[🏠 Inici](../README.md) › [RA4 · Administració del sistema operatiu](00-index.md) › **4. Serveis del sistema**
+
+[⬅ Anterior: Gestió de processos](03-gestio-de-processos.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Monitoratge i registres ➡](05-monitoratge-rendiment-i-registres.md)
 
 # 4. Serveis del sistema
 
@@ -126,4 +128,4 @@ Editar la configuració d'una unitat sense tocar l'original: `sudo systemctl edi
 
 ---
 
-[⬅ Anterior: Gestió de processos](03-gestio-de-processos.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Següent: Monitoratge i registres ➡](05-monitoratge-rendiment-i-registres.md)
+[⬅ Anterior: Gestió de processos](03-gestio-de-processos.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Monitoratge i registres ➡](05-monitoratge-rendiment-i-registres.md)

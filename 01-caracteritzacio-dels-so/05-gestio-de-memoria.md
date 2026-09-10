@@ -1,4 +1,6 @@
-[⬅ Anterior: Processos](04-processos-i-planificacio.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Següent: E/S i interfícies ➡](06-gestio-es-i-interficies.md)
+[🏠 Inici](../README.md) › [RA1 · Caracterització dels sistemes operatius](00-index.md) › **5. Gestió de la memòria**
+
+[⬅ Anterior: Processos](04-processos-i-planificacio.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: E/S i interfícies ➡](06-gestio-es-i-interficies.md)
 
 # 5. Gestió de la memòria
 
@@ -104,4 +106,4 @@ a extensió de la RAM.
 
 ---
 
-[⬅ Anterior: Processos](04-processos-i-planificacio.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Següent: E/S i interfícies ➡](06-gestio-es-i-interficies.md)
+[⬅ Anterior: Processos](04-processos-i-planificacio.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: E/S i interfícies ➡](06-gestio-es-i-interficies.md)

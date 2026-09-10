@@ -1,4 +1,6 @@
-[⬅ Anterior: Representació de la informació](02-representacio-de-la-informacio.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Següent: Processos ➡](04-processos-i-planificacio.md)
+[🏠 Inici](../README.md) › [RA1 · Caracterització dels sistemes operatius](00-index.md) › **3. Concepte, funcions i estructura del sistema operatiu**
+
+[⬅ Anterior: Representació de la informació](02-representacio-de-la-informacio.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Processos ➡](04-processos-i-planificacio.md)
 
 # 3. Concepte, funcions i estructura del sistema operatiu
 
@@ -106,4 +108,4 @@ necessitats dels SO empenyen el maquinari.
 
 ---
 
-[⬅ Anterior: Representació de la informació](02-representacio-de-la-informacio.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Següent: Processos ➡](04-processos-i-planificacio.md)
+[⬅ Anterior: Representació de la informació](02-representacio-de-la-informacio.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Processos ➡](04-processos-i-planificacio.md)

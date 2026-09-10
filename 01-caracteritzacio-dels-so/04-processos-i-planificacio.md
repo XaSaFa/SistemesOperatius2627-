@@ -1,4 +1,6 @@
-[⬅ Anterior: Concepte del SO](03-concepte-funcions-i-estructura-del-so.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Següent: Gestió de la memòria ➡](05-gestio-de-memoria.md)
+[🏠 Inici](../README.md) › [RA1 · Caracterització dels sistemes operatius](00-index.md) › **4. Processos, fils i planificació**
+
+[⬅ Anterior: Concepte del SO](03-concepte-funcions-i-estructura-del-so.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Gestió de la memòria ➡](05-gestio-de-memoria.md)
 
 # 4. Processos, fils i planificació
 
@@ -130,4 +132,4 @@ durant quant de temps, per assolir objectius com **equitat**, **eficiència**, *
 
 ---
 
-[⬅ Anterior: Concepte del SO](03-concepte-funcions-i-estructura-del-so.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Següent: Gestió de la memòria ➡](05-gestio-de-memoria.md)
+[⬅ Anterior: Concepte del SO](03-concepte-funcions-i-estructura-del-so.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Gestió de la memòria ➡](05-gestio-de-memoria.md)

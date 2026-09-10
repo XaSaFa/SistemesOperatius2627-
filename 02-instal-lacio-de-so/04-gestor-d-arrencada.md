@@ -1,4 +1,6 @@
-[⬅ Anterior: Pla d'instal·lació](03-pla-i-fases-d-instal-lacio.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Següent: Instal·lació de Windows ➡](05-instal-lacio-de-windows.md)
+[🏠 Inici](../README.md) › [RA2 · Instal·lació de sistemes operatius](00-index.md) › **4. El gestor d'arrencada**
+
+[⬅ Anterior: Pla d'instal·lació](03-pla-i-fases-d-instal-lacio.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Instal·lació de Windows ➡](05-instal-lacio-de-windows.md)
 
 # 4. El gestor d'arrencada
 
@@ -111,4 +113,4 @@ Encesa → inicialització UEFI → llegeix la NVRAM (entrades d'arrencada)
 
 ---
 
-[⬅ Anterior: Pla d'instal·lació](03-pla-i-fases-d-instal-lacio.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Següent: Instal·lació de Windows ➡](05-instal-lacio-de-windows.md)
+[⬅ Anterior: Pla d'instal·lació](03-pla-i-fases-d-instal-lacio.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Instal·lació de Windows ➡](05-instal-lacio-de-windows.md)

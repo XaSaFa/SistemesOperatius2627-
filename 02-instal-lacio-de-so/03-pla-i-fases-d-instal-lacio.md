@@ -1,4 +1,6 @@
-[⬅ Anterior: Particions](02-particions-i-estructura-del-disc.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Següent: Gestor d'arrencada ➡](04-gestor-d-arrencada.md)
+[🏠 Inici](../README.md) › [RA2 · Instal·lació de sistemes operatius](00-index.md) › **3. El pla i les fases d'instal·lació**
+
+[⬅ Anterior: Particions](02-particions-i-estructura-del-disc.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Gestor d'arrencada ➡](04-gestor-d-arrencada.md)
 
 # 3. El pla i les fases d'instal·lació
 
@@ -113,4 +115,4 @@ Deixar constància escrita de tot (imprescindible per a manteniment, ampliacions
 
 ---
 
-[⬅ Anterior: Particions](02-particions-i-estructura-del-disc.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Següent: Gestor d'arrencada ➡](04-gestor-d-arrencada.md)
+[⬅ Anterior: Particions](02-particions-i-estructura-del-disc.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Gestor d'arrencada ➡](04-gestor-d-arrencada.md)

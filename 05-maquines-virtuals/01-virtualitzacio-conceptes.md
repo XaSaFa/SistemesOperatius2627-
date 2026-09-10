@@ -1,4 +1,6 @@
-[⬅ Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Següent: Programari i creació de MV ➡](02-programari-i-creacio-de-mv.md)
+[🏠 Inici](../README.md) › [RA5 · Màquines virtuals](00-index.md) › **1. Virtualització: conceptes**
+
+[⬅ Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Programari i creació de MV ➡](02-programari-i-creacio-de-mv.md)
 
 # 1. Virtualització: conceptes
 
@@ -116,4 +118,4 @@ Altres formes d'aïllament relacionades (no exactament MV):
 
 ---
 
-[⬅ Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Següent: Programari i creació de MV ➡](02-programari-i-creacio-de-mv.md)
+[⬅ Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Programari i creació de MV ➡](02-programari-i-creacio-de-mv.md)

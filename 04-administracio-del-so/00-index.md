@@ -1,4 +1,6 @@
-[⬅ Bloc anterior: Caracterització](../01-caracteritzacio-dels-so/00-index.md) · [🏠 Índex general](../README.md) · [Bloc següent: Màquines virtuals ➡](../05-maquines-virtuals/00-index.md)
+[🏠 Inici](../README.md) › **RA4 · Administració del sistema operatiu**
+
+[⬅ Bloc anterior: Caracterització](../01-caracteritzacio-dels-so/00-index.md) · [🏠 Inici](../README.md) · [Bloc següent: Màquines virtuals ➡](../05-maquines-virtuals/00-index.md)
 
 # Bloc 04 · Administració del sistema operatiu (RA4)
 
@@ -29,4 +31,4 @@
 
 ---
 
-[🏠 Índex general](../README.md) · [Primer tema ➡](01-usuaris-grups-i-contrasenyes.md)
+[🏠 Inici](../README.md) · [Primer tema ➡](01-usuaris-grups-i-contrasenyes.md)

@@ -1,4 +1,6 @@
-[⬅ Bloc anterior: Administració](../04-administracio-del-so/00-index.md) · [🏠 Índex general](../README.md) · [Bloc següent: Configuració ➡](../03-configuracio-basica/00-index.md)
+[🏠 Inici](../README.md) › **RA5 · Màquines virtuals**
+
+[⬅ Bloc anterior: Administració](../04-administracio-del-so/00-index.md) · [🏠 Inici](../README.md) · [Bloc següent: Configuració ➡](../03-configuracio-basica/00-index.md)
 
 # Bloc 05 · Màquines virtuals (RA5)
 
@@ -24,4 +26,4 @@
 
 ---
 
-[🏠 Índex general](../README.md) · [Primer tema ➡](01-virtualitzacio-conceptes.md)
+[🏠 Inici](../README.md) · [Primer tema ➡](01-virtualitzacio-conceptes.md)

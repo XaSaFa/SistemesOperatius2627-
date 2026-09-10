@@ -1,4 +1,6 @@
-[⬅ Anterior: Serveis del sistema](04-serveis-del-sistema.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Bloc següent: Màquines virtuals ➡](../05-maquines-virtuals/00-index.md)
+[🏠 Inici](../README.md) › [RA4 · Administració del sistema operatiu](00-index.md) › **5. Monitoratge, rendiment i registres**
+
+[⬅ Anterior: Serveis del sistema](04-serveis-del-sistema.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Bloc següent: Màquines virtuals ➡](../05-maquines-virtuals/00-index.md)
 
 # 5. Monitoratge, rendiment i registres
 
@@ -144,4 +146,4 @@ Consulta/edició per CLI: `reg query`, `reg add`, `reg export`. **Sempre exporta
 
 ---
 
-[⬅ Anterior: Serveis del sistema](04-serveis-del-sistema.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Bloc següent: Màquines virtuals ➡](../05-maquines-virtuals/00-index.md)
+[⬅ Anterior: Serveis del sistema](04-serveis-del-sistema.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Bloc següent: Màquines virtuals ➡](../05-maquines-virtuals/00-index.md)

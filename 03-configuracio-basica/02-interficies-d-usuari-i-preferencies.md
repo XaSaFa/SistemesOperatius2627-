@@ -1,4 +1,6 @@
-[⬅ Anterior: Arrencada i sessions](01-arrencada-parada-i-sessions.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Següent: Gestió de discos ➡](03-gestio-de-discos-i-sistemes-d-arxius.md)
+[🏠 Inici](../README.md) › [RA3 · Configuració bàsica del sistema operatiu](00-index.md) › **2. Interfícies d'usuari i preferències de l'entorn**
+
+[⬅ Anterior: Arrencada i sessions](01-arrencada-parada-i-sessions.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Gestió de discos ➡](03-gestio-de-discos-i-sistemes-d-arxius.md)
 
 # 2. Interfícies d'usuari i preferències de l'entorn
 
@@ -102,4 +104,4 @@ Cada usuari té el seu **perfil** amb la seva configuració; el que un usuari ca
 
 ---
 
-[⬅ Anterior: Arrencada i sessions](01-arrencada-parada-i-sessions.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Següent: Gestió de discos ➡](03-gestio-de-discos-i-sistemes-d-arxius.md)
+[⬅ Anterior: Arrencada i sessions](01-arrencada-parada-i-sessions.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Gestió de discos ➡](03-gestio-de-discos-i-sistemes-d-arxius.md)

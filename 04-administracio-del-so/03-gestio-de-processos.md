@@ -1,4 +1,6 @@
-[⬅ Anterior: Permisos i recursos compartits](02-permisos-i-recursos-compartits.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Següent: Serveis del sistema ➡](04-serveis-del-sistema.md)
+[🏠 Inici](../README.md) › [RA4 · Administració del sistema operatiu](00-index.md) › **3. Gestió de processos**
+
+[⬅ Anterior: Permisos i recursos compartits](02-permisos-i-recursos-compartits.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Serveis del sistema ➡](04-serveis-del-sistema.md)
 
 # 3. Gestió de processos
 
@@ -160,4 +162,4 @@ nohup comanda &      # que sobrevisqui al tancament de la terminal
 
 ---
 
-[⬅ Anterior: Permisos i recursos compartits](02-permisos-i-recursos-compartits.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Següent: Serveis del sistema ➡](04-serveis-del-sistema.md)
+[⬅ Anterior: Permisos i recursos compartits](02-permisos-i-recursos-compartits.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Serveis del sistema ➡](04-serveis-del-sistema.md)

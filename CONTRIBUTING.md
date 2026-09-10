@@ -17,7 +17,8 @@ Aquest repositori és material didàctic del mòdul **MP0222 · Sistemes operati
 - **Idioma:** català. To didàctic, adreçat a alumnat de grau mitjà.
 - **Noms de fitxer:** `kebab-case`, sense accents ni espais, amb prefix numèric de dos dígits.
 - **Cada tema comença amb un `# Títol`** (és el que apareix a la barra lateral del navegador).
-- **Barra de navegació** a dalt i a baix del tema: `Anterior · Índex del bloc · Índex general · Següent`.
+- **Molla de pa** a la primera línia de cada fitxer: `[🏠 Inici](../README.md) › [RA · Bloc](00-index.md) › **Tema**`.
+- **Barra de navegació** a dalt i a baix del tema: `Anterior · Índex del bloc · Inici · Següent`.
 - **Enllaços interns:** rutes relatives acabades en `.md`
   (p. ex. `[permisos](../01-caracteritzacio-dels-so/08-arxius-directoris-atributs-i-permisos.md)`).
   El navegador els converteix en navegació interna.

@@ -1,4 +1,6 @@
-[⬅ Anterior: Gestor d'arrencada](04-gestor-d-arrencada.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Següent: Instal·lació de Linux ➡](06-instal-lacio-de-linux.md)
+[🏠 Inici](../README.md) › [RA2 · Instal·lació de sistemes operatius](00-index.md) › **5. Instal·lació de Windows**
+
+[⬅ Anterior: Gestor d'arrencada](04-gestor-d-arrencada.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Instal·lació de Linux ➡](06-instal-lacio-de-linux.md)
 
 # 5. Instal·lació de Windows
 
@@ -91,4 +93,4 @@
 
 ---
 
-[⬅ Anterior: Gestor d'arrencada](04-gestor-d-arrencada.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Següent: Instal·lació de Linux ➡](06-instal-lacio-de-linux.md)
+[⬅ Anterior: Gestor d'arrencada](04-gestor-d-arrencada.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Instal·lació de Linux ➡](06-instal-lacio-de-linux.md)

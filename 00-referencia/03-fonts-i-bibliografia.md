@@ -1,4 +1,6 @@
-[⬅ Glossari](02-glossari.md) · [🏠 Índex general](../README.md)
+[🏠 Inici](../README.md) › Referència › **Fonts i bibliografia**
+
+[⬅ Glossari](02-glossari.md) · [🏠 Inici](../README.md)
 
 # Fonts i bibliografia
 
@@ -58,4 +60,4 @@ coneixements s'ha contrastat i actualitzat amb:
 
 ---
 
-[⬅ Glossari](02-glossari.md) · [🏠 Índex general](../README.md)
+[⬅ Glossari](02-glossari.md) · [🏠 Inici](../README.md)

@@ -1,4 +1,6 @@
-[⬅ Bloc anterior: Configuració](../03-configuracio-basica/00-index.md) · [🏠 Índex general](../README.md)
+[🏠 Inici](../README.md) › **RA2 · Instal·lació de sistemes operatius**
+
+[⬅ Bloc anterior: Configuració](../03-configuracio-basica/00-index.md) · [🏠 Inici](../README.md)
 
 # Bloc 02 · Instal·lació de sistemes operatius (RA2)
 
@@ -29,4 +31,4 @@
 
 ---
 
-[🏠 Índex general](../README.md) · [Primer tema ➡](01-requisits-i-compatibilitat.md)
+[🏠 Inici](../README.md) · [Primer tema ➡](01-requisits-i-compatibilitat.md)

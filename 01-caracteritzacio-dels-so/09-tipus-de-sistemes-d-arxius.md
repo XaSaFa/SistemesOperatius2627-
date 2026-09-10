@@ -1,4 +1,6 @@
-[⬅ Anterior: Arxius, atributs i permisos](08-arxius-directoris-atributs-i-permisos.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Següent: Tipus de SO ➡](10-tipus-de-so-i-so-actuals.md)
+[🏠 Inici](../README.md) › [RA1 · Caracterització dels sistemes operatius](00-index.md) › **9. Tipus de sistemes d'arxius i sistemes transaccionals**
+
+[⬅ Anterior: Arxius, atributs i permisos](08-arxius-directoris-atributs-i-permisos.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Tipus de SO ➡](10-tipus-de-so-i-so-actuals.md)
 
 # 9. Tipus de sistemes d'arxius i sistemes transaccionals
 
@@ -110,4 +112,4 @@ màxima** de fitxer i volum, i **rendiment** amb el tipus de càrrega previst.
 
 ---
 
-[⬅ Anterior: Arxius, atributs i permisos](08-arxius-directoris-atributs-i-permisos.md) · [Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Següent: Tipus de SO ➡](10-tipus-de-so-i-so-actuals.md)
+[⬅ Anterior: Arxius, atributs i permisos](08-arxius-directoris-atributs-i-permisos.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Tipus de SO ➡](10-tipus-de-so-i-so-actuals.md)

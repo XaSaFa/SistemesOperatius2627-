@@ -44,8 +44,10 @@ la instal·lació. Cada bloc obre amb un **índex amb el menú de temes** i la r
 - Cada **bloc** és una carpeta. El número de la carpeta és el número del **resultat d'aprenentatge**
   (`01…` = RA1, `04…` = RA4…), **no** l'ordre del curs.
 - El fitxer `00-index.md` de cada bloc conté el **menú de temes** i els relaciona amb els criteris d'avaluació.
-- Cada tema té una barra de navegació a dalt i a baix
-  (`Anterior · Índex del bloc · Índex general · Següent`) que segueix l'ordre del curs.
+- Cada fitxer comença amb una **molla de pa** clicable fins a l'inici:
+  `🏠 Inici › RA · Bloc › Tema`.
+- A més, cada tema té una barra de navegació a dalt i a baix
+  (`Anterior · Índex del bloc · Inici · Següent`) que segueix l'ordre del curs.
 - **`index.html`** (obre'l amb doble clic) és un navegador offline de tota la base, amb cerca i tema clar/fosc.
 
 ---

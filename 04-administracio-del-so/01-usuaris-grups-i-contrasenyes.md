@@ -1,4 +1,6 @@
-[⬅ Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Següent: Permisos i recursos compartits ➡](02-permisos-i-recursos-compartits.md)
+[🏠 Inici](../README.md) › [RA4 · Administració del sistema operatiu](00-index.md) › **1. Usuaris, grups i contrasenyes**
+
+[⬅ Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Permisos i recursos compartits ➡](02-permisos-i-recursos-compartits.md)
 
 # 1. Usuaris, grups i contrasenyes
 
@@ -162,4 +164,4 @@ Recomanacions (i requisits de complexitat típics):
 
 ---
 
-[⬅ Índex del bloc](00-index.md) · [🏠 Índex general](../README.md) · [Següent: Permisos i recursos compartits ➡](02-permisos-i-recursos-compartits.md)
+[⬅ Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Permisos i recursos compartits ➡](02-permisos-i-recursos-compartits.md)
