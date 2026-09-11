@@ -14,6 +14,8 @@ res útil: necessiten un conjunt d'ordres o instruccions que els posin en funcio
 
 Un **sistema informàtic** és el conjunt d'elements que permeten emmagatzemar, processar i transmetre informació:
 
+<img width="471" height="270" alt="image" src="https://github.com/user-attachments/assets/0e685f1f-73f2-4106-82de-faa10d9ea3a0" />
+
 - **Maquinari (*hardware*):** part física i tangible (processador, memòria, discos, perifèrics, plaques, cables).
 - **Programari (*software*):** part lògica i intangible (conjunts d'instruccions i dades: sistema operatiu,
   aplicacions, controladors).
