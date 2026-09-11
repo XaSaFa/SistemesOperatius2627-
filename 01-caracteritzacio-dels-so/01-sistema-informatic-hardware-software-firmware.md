@@ -1,6 +1,6 @@
 [🏠 Inici](../README.md) › [RA1 · Caracterització dels sistemes operatius](00-index.md) › **1. El sistema informàtic: maquinari, programari i microprogramari**
 
-[⬅ Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Representació de la informació ➡](02-representacio-de-la-informacio.md)
+[⬅ Índex del bloc](00-index.md) · [Següent: Representació de la informació ➡](02-representacio-de-la-informacio.md)
 
 # 1. El sistema informàtic: maquinari, programari i microprogramari
 
@@ -107,4 +107,4 @@ lectura o *flash*. Estableix la lògica de més baix nivell que controla els cir
 
 ---
 
-[⬅ Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Representació de la informació ➡](02-representacio-de-la-informacio.md)
+[⬅ Índex del bloc](00-index.md) · [Següent: Representació de la informació ➡](02-representacio-de-la-informacio.md)

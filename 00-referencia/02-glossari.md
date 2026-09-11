@@ -1,6 +1,6 @@
 [🏠 Inici](../README.md) › Referència › **Glossari**
 
-[⬅ Currículum oficial](01-curriculum-oficial.md) · [🏠 Inici](../README.md) · [Fonts i bibliografia ➡](03-fonts-i-bibliografia.md)
+[⬅ Currículum oficial](01-curriculum-oficial.md) · [Fonts i bibliografia ➡](03-fonts-i-bibliografia.md)
 
 # Glossari
 
@@ -84,4 +84,4 @@ Termes clau del mòdul. Entre parèntesis, el tema on s'expliquen amb detall.
 
 ---
 
-[⬅ Currículum oficial](01-curriculum-oficial.md) · [🏠 Inici](../README.md) · [Fonts i bibliografia ➡](03-fonts-i-bibliografia.md)
+[⬅ Currículum oficial](01-curriculum-oficial.md) · [Fonts i bibliografia ➡](03-fonts-i-bibliografia.md)

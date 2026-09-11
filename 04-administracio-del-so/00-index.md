@@ -1,6 +1,6 @@
 [🏠 Inici](../README.md) › **RA4 · Administració del sistema operatiu**
 
-[⬅ Bloc anterior: Caracterització](../01-caracteritzacio-dels-so/00-index.md) · [🏠 Inici](../README.md) · [Bloc següent: Màquines virtuals ➡](../05-maquines-virtuals/00-index.md)
+[⬅ Bloc anterior: Caracterització](../01-caracteritzacio-dels-so/00-index.md) · [Bloc següent: Màquines virtuals ➡](../05-maquines-virtuals/00-index.md)
 
 # Bloc 04 · Administració del sistema operatiu (RA4)
 
@@ -44,4 +44,4 @@ Repàs comparatiu centrat en Windows 10/11, amb els mateixos criteris d'avaluaci
 
 ---
 
-[🏠 Inici](../README.md) · [Primer tema ➡](01-usuaris-grups-i-contrasenyes.md)
+[Primer tema ➡](01-usuaris-grups-i-contrasenyes.md)

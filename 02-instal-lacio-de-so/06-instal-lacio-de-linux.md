@@ -1,6 +1,6 @@
 [🏠 Inici](../README.md) › [RA2 · Instal·lació de sistemes operatius](00-index.md) › **6. Instal·lació de Linux**
 
-[⬅ Anterior: Instal·lació de Windows](05-instal-lacio-de-windows.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Llicències i actualització ➡](07-llicencies-actualitzacio-i-incidencies.md)
+[⬅ Anterior: Instal·lació de Windows](05-instal-lacio-de-windows.md) · [Següent: Llicències i actualització ➡](07-llicencies-actualitzacio-i-incidencies.md)
 
 # 6. Instal·lació de Linux
 
@@ -117,4 +117,4 @@ sudo apt install ubuntu-restricted-extras     # còdecs, tipus de lletra
 
 ---
 
-[⬅ Anterior: Instal·lació de Windows](05-instal-lacio-de-windows.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Llicències i actualització ➡](07-llicencies-actualitzacio-i-incidencies.md)
+[⬅ Anterior: Instal·lació de Windows](05-instal-lacio-de-windows.md) · [Següent: Llicències i actualització ➡](07-llicencies-actualitzacio-i-incidencies.md)

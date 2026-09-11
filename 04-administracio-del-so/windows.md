@@ -1,6 +1,6 @@
 [🏠 Inici](../README.md) › [RA4 · Administració del sistema operatiu](00-index.md) › **RA4.2 · Administració a Windows**
 
-[⬅ Anterior: Monitoratge, rendiment i registres](05-monitoratge-rendiment-i-registres.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Bloc següent: Màquines virtuals ➡](../05-maquines-virtuals/00-index.md)
+[⬅ Anterior: Monitoratge, rendiment i registres](05-monitoratge-rendiment-i-registres.md) · [Bloc següent: Màquines virtuals ➡](../05-maquines-virtuals/00-index.md)
 
 # RA4.2 · Administració a Windows
 
@@ -154,4 +154,4 @@ CLI: `reg query`, `reg add`, `reg export`. **Exporta sempre la branca abans d'ed
 
 ---
 
-[⬅ Anterior: Monitoratge, rendiment i registres](05-monitoratge-rendiment-i-registres.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Bloc següent: Màquines virtuals ➡](../05-maquines-virtuals/00-index.md)
+[⬅ Anterior: Monitoratge, rendiment i registres](05-monitoratge-rendiment-i-registres.md) · [Bloc següent: Màquines virtuals ➡](../05-maquines-virtuals/00-index.md)

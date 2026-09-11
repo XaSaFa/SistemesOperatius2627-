@@ -1,6 +1,6 @@
 [🏠 Inici](../README.md) › [RA1 · Caracterització dels sistemes operatius](00-index.md) › **2. Representació de la informació**
 
-[⬅ Anterior: Sistema informàtic](01-sistema-informatic-hardware-software-firmware.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Concepte del SO ➡](03-concepte-funcions-i-estructura-del-so.md)
+[⬅ Anterior: Sistema informàtic](01-sistema-informatic-hardware-software-firmware.md) · [Següent: Concepte del SO ➡](03-concepte-funcions-i-estructura-del-so.md)
 
 # 2. Representació de la informació
 
@@ -115,4 +115,4 @@ Exemple (base 10):  283 = 2·10² + 8·10¹ + 3·10⁰ = 200 + 80 + 3
 
 ---
 
-[⬅ Anterior: Sistema informàtic](01-sistema-informatic-hardware-software-firmware.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Concepte del SO ➡](03-concepte-funcions-i-estructura-del-so.md)
+[⬅ Anterior: Sistema informàtic](01-sistema-informatic-hardware-software-firmware.md) · [Següent: Concepte del SO ➡](03-concepte-funcions-i-estructura-del-so.md)

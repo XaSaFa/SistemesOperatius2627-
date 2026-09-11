@@ -1,6 +1,6 @@
 [🏠 Inici](../README.md) › **RA2 · Instal·lació de sistemes operatius**
 
-[⬅ Bloc anterior: Configuració](../03-configuracio-basica/00-index.md) · [🏠 Inici](../README.md)
+[⬅ Bloc anterior: Configuració](../03-configuracio-basica/00-index.md)
 
 # Bloc 02 · Instal·lació de sistemes operatius (RA2)
 
@@ -44,4 +44,4 @@ Repàs comparatiu centrat en Windows 10/11, amb els mateixos criteris d'avaluaci
 
 ---
 
-[🏠 Inici](../README.md) · [Primer tema ➡](01-requisits-i-compatibilitat.md)
+[Primer tema ➡](01-requisits-i-compatibilitat.md)

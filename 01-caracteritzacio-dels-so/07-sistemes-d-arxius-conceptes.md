@@ -1,6 +1,6 @@
 [🏠 Inici](../README.md) › [RA1 · Caracterització dels sistemes operatius](00-index.md) › **7. El sistema d'arxius: conceptes**
 
-[⬅ Anterior: E/S i interfícies](06-gestio-es-i-interficies.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Arxius, atributs i permisos ➡](08-arxius-directoris-atributs-i-permisos.md)
+[⬅ Anterior: E/S i interfícies](06-gestio-es-i-interficies.md) · [Següent: Arxius, atributs i permisos ➡](08-arxius-directoris-atributs-i-permisos.md)
 
 # 7. El sistema d'arxius: conceptes
 
@@ -125,4 +125,4 @@ separen amb `\` (Windows/CMD) o `/` (Linux, i també Windows en molts contextos)
 
 ---
 
-[⬅ Anterior: E/S i interfícies](06-gestio-es-i-interficies.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Arxius, atributs i permisos ➡](08-arxius-directoris-atributs-i-permisos.md)
+[⬅ Anterior: E/S i interfícies](06-gestio-es-i-interficies.md) · [Següent: Arxius, atributs i permisos ➡](08-arxius-directoris-atributs-i-permisos.md)

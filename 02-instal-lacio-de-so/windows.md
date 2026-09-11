@@ -1,6 +1,6 @@
 [🏠 Inici](../README.md) › [RA2 · Instal·lació de sistemes operatius](00-index.md) › **RA2.2 · Instal·lació de Windows**
 
-[⬅ Anterior: Llicències, actualització i incidències](07-llicencies-actualitzacio-i-incidencies.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md)
+[⬅ Anterior: Llicències, actualització i incidències](07-llicencies-actualitzacio-i-incidencies.md)
 
 # RA2.2 · Instal·lació de Windows
 
@@ -140,4 +140,4 @@ create partition primary → format fs=ntfs quick → assign letter=C
 
 ---
 
-[⬅ Anterior: Llicències, actualització i incidències](07-llicencies-actualitzacio-i-incidencies.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md)
+[⬅ Anterior: Llicències, actualització i incidències](07-llicencies-actualitzacio-i-incidencies.md)

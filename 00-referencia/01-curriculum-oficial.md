@@ -1,6 +1,6 @@
 [🏠 Inici](../README.md) › Referència › **Currículum oficial del mòdul 0222 · Sistemes operatius monolloc**
 
-[🏠 Inici](../README.md) · [Glossari ➡](02-glossari.md)
+[Glossari ➡](02-glossari.md)
 
 # Currículum oficial del mòdul 0222 · Sistemes operatius monolloc
 
@@ -129,4 +129,4 @@ Criteris d'avaluació:
 
 ---
 
-[🏠 Inici](../README.md) · [Glossari ➡](02-glossari.md)
+[Glossari ➡](02-glossari.md)

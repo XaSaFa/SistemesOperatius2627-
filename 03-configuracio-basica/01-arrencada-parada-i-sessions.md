@@ -1,6 +1,6 @@
 [🏠 Inici](../README.md) › [RA3 · Configuració bàsica del sistema operatiu](00-index.md) › **1. Arrencada, parada i sessions**
 
-[⬅ Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Interfícies i preferències ➡](02-interficies-d-usuari-i-preferencies.md)
+[⬅ Índex del bloc](00-index.md) · [Següent: Interfícies i preferències ➡](02-interficies-d-usuari-i-preferencies.md)
 
 # 1. Arrencada, parada i sessions
 
@@ -113,4 +113,4 @@ cal fer-ho amb l'ordre del sistema, que atura serveis i processos, buida les mem
 
 ---
 
-[⬅ Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Interfícies i preferències ➡](02-interficies-d-usuari-i-preferencies.md)
+[⬅ Índex del bloc](00-index.md) · [Següent: Interfícies i preferències ➡](02-interficies-d-usuari-i-preferencies.md)

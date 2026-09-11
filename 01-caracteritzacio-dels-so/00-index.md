@@ -1,6 +1,6 @@
 [🏠 Inici](../README.md) › **RA1 · Caracterització dels sistemes operatius**
 
-[🏠 Inici](../README.md) · [Bloc següent: Administració ➡](../04-administracio-del-so/00-index.md)
+[Bloc següent: Administració ➡](../04-administracio-del-so/00-index.md)
 
 # Bloc 01 · Caracterització dels sistemes operatius (RA1)
 
@@ -34,4 +34,4 @@
 
 ---
 
-[🏠 Inici](../README.md) · [Primer tema ➡](01-sistema-informatic-hardware-software-firmware.md)
+[Primer tema ➡](01-sistema-informatic-hardware-software-firmware.md)

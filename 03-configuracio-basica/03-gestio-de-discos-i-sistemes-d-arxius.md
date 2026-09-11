@@ -1,6 +1,6 @@
 [🏠 Inici](../README.md) › [RA3 · Configuració bàsica del sistema operatiu](00-index.md) › **3. Gestió de discos i sistemes d'arxius**
 
-[⬅ Anterior: Interfícies i preferències](02-interficies-d-usuari-i-preferencies.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Programari i automatització ➡](04-programari-actualitzacions-i-automatitzacio.md)
+[⬅ Anterior: Interfícies i preferències](02-interficies-d-usuari-i-preferencies.md) · [Següent: Programari i automatització ➡](04-programari-actualitzacions-i-automatitzacio.md)
 
 # 3. Gestió de discos i sistemes d'arxius
 
@@ -118,4 +118,4 @@ UUID=ABCD-1234            /mnt/win         ntfs3  defaults,uid=1000     0      0
 
 ---
 
-[⬅ Anterior: Interfícies i preferències](02-interficies-d-usuari-i-preferencies.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Programari i automatització ➡](04-programari-actualitzacions-i-automatitzacio.md)
+[⬅ Anterior: Interfícies i preferències](02-interficies-d-usuari-i-preferencies.md) · [Següent: Programari i automatització ➡](04-programari-actualitzacions-i-automatitzacio.md)

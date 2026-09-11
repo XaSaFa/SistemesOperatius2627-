@@ -1,6 +1,6 @@
 [🏠 Inici](../README.md) › [RA2 · Instal·lació de sistemes operatius](00-index.md) › **2. Particions i estructura del disc**
 
-[⬅ Anterior: Requisits](01-requisits-i-compatibilitat.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Pla d'instal·lació ➡](03-pla-i-fases-d-instal-lacio.md)
+[⬅ Anterior: Requisits](01-requisits-i-compatibilitat.md) · [Següent: Pla d'instal·lació ➡](03-pla-i-fases-d-instal-lacio.md)
 
 # 2. Particions i estructura del disc
 
@@ -106,4 +106,4 @@ En **GPT** aquesta classificació desapareix: totes les particions són equivale
 
 ---
 
-[⬅ Anterior: Requisits](01-requisits-i-compatibilitat.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Pla d'instal·lació ➡](03-pla-i-fases-d-instal-lacio.md)
+[⬅ Anterior: Requisits](01-requisits-i-compatibilitat.md) · [Següent: Pla d'instal·lació ➡](03-pla-i-fases-d-instal-lacio.md)

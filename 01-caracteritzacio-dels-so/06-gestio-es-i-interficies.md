@@ -1,6 +1,6 @@
 [🏠 Inici](../README.md) › [RA1 · Caracterització dels sistemes operatius](00-index.md) › **6. Gestió d'entrada/sortida i interfícies d'usuari**
 
-[⬅ Anterior: Gestió de la memòria](05-gestio-de-memoria.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Sistema d'arxius ➡](07-sistemes-d-arxius-conceptes.md)
+[⬅ Anterior: Gestió de la memòria](05-gestio-de-memoria.md) · [Següent: Sistema d'arxius ➡](07-sistemes-d-arxius-conceptes.md)
 
 # 6. Gestió d'entrada/sortida i interfícies d'usuari
 
@@ -93,4 +93,4 @@ La **interfície d'usuari** és el mitjà de comunicació entre la persona i l'o
 
 ---
 
-[⬅ Anterior: Gestió de la memòria](05-gestio-de-memoria.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Sistema d'arxius ➡](07-sistemes-d-arxius-conceptes.md)
+[⬅ Anterior: Gestió de la memòria](05-gestio-de-memoria.md) · [Següent: Sistema d'arxius ➡](07-sistemes-d-arxius-conceptes.md)

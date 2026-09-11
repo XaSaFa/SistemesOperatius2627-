@@ -1,6 +1,6 @@
 [🏠 Inici](../README.md) › [RA2 · Instal·lació de sistemes operatius](00-index.md) › **1. Requisits tècnics i compatibilitat del maquinari**
 
-[⬅ Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Particions ➡](02-particions-i-estructura-del-disc.md)
+[⬅ Índex del bloc](00-index.md) · [Següent: Particions ➡](02-particions-i-estructura-del-disc.md)
 
 # 1. Requisits tècnics i compatibilitat del maquinari
 
@@ -98,4 +98,4 @@ Distribucions lleugeres (Lubuntu, Xubuntu, Debian amb XFCE) funcionen bé amb **
 
 ---
 
-[⬅ Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Particions ➡](02-particions-i-estructura-del-disc.md)
+[⬅ Índex del bloc](00-index.md) · [Següent: Particions ➡](02-particions-i-estructura-del-disc.md)

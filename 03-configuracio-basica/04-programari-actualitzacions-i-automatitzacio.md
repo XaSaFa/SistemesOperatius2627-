@@ -1,6 +1,6 @@
 [🏠 Inici](../README.md) › [RA3 · Configuració bàsica del sistema operatiu](00-index.md) › **4. Programari, actualitzacions i automatització de tasques**
 
-[⬅ Anterior: Gestió de discos](03-gestio-de-discos-i-sistemes-d-arxius.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Recuperació del SO ➡](05-recuperacio-del-so.md)
+[⬅ Anterior: Gestió de discos](03-gestio-de-discos-i-sistemes-d-arxius.md) · [Següent: Recuperació del SO ➡](05-recuperacio-del-so.md)
 
 # 4. Programari, actualitzacions i automatització de tasques
 
@@ -141,4 +141,4 @@ Exemples:
 
 ---
 
-[⬅ Anterior: Gestió de discos](03-gestio-de-discos-i-sistemes-d-arxius.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Recuperació del SO ➡](05-recuperacio-del-so.md)
+[⬅ Anterior: Gestió de discos](03-gestio-de-discos-i-sistemes-d-arxius.md) · [Següent: Recuperació del SO ➡](05-recuperacio-del-so.md)

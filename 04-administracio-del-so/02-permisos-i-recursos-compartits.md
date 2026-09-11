@@ -1,6 +1,6 @@
 [🏠 Inici](../README.md) › [RA4 · Administració del sistema operatiu](00-index.md) › **2. Permisos i recursos compartits**
 
-[⬅ Anterior: Usuaris i grups](01-usuaris-grups-i-contrasenyes.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Gestió de processos ➡](03-gestio-de-processos.md)
+[⬅ Anterior: Usuaris i grups](01-usuaris-grups-i-contrasenyes.md) · [Següent: Gestió de processos ➡](03-gestio-de-processos.md)
 
 # 2. Permisos i recursos compartits
 
@@ -148,4 +148,4 @@ Un `+` al final de `ls -l` (`-rw-rwxr--+`) indica que l'element té ACL.
 
 ---
 
-[⬅ Anterior: Usuaris i grups](01-usuaris-grups-i-contrasenyes.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Gestió de processos ➡](03-gestio-de-processos.md)
+[⬅ Anterior: Usuaris i grups](01-usuaris-grups-i-contrasenyes.md) · [Següent: Gestió de processos ➡](03-gestio-de-processos.md)

@@ -1,6 +1,6 @@
 [🏠 Inici](../README.md) › [RA3 · Configuració bàsica del sistema operatiu](00-index.md) › **RA3.2 · Configuració a Windows**
 
-[⬅ Anterior: Recuperació del sistema operatiu](05-recuperacio-del-so.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Bloc següent: Instal·lació ➡](../02-instal-lacio-de-so/00-index.md)
+[⬅ Anterior: Recuperació del sistema operatiu](05-recuperacio-del-so.md) · [Bloc següent: Instal·lació ➡](../02-instal-lacio-de-so/00-index.md)
 
 # RA3.2 · Configuració a Windows
 
@@ -139,4 +139,4 @@ Arrenca amb controladors i serveis mínims (opcionalment amb xarxa o amb símbol
 
 ---
 
-[⬅ Anterior: Recuperació del sistema operatiu](05-recuperacio-del-so.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Bloc següent: Instal·lació ➡](../02-instal-lacio-de-so/00-index.md)
+[⬅ Anterior: Recuperació del sistema operatiu](05-recuperacio-del-so.md) · [Bloc següent: Instal·lació ➡](../02-instal-lacio-de-so/00-index.md)

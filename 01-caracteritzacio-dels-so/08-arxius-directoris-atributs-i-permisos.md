@@ -1,6 +1,6 @@
 [🏠 Inici](../README.md) › [RA1 · Caracterització dels sistemes operatius](00-index.md) › **8. Arxius, directoris, atributs i permisos**
 
-[⬅ Anterior: Sistema d'arxius](07-sistemes-d-arxius-conceptes.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Tipus de sistemes d'arxius ➡](09-tipus-de-sistemes-d-arxius.md)
+[⬅ Anterior: Sistema d'arxius](07-sistemes-d-arxius-conceptes.md) · [Següent: Tipus de sistemes d'arxius ➡](09-tipus-de-sistemes-d-arxius.md)
 
 # 8. Arxius, directoris, atributs i permisos
 
@@ -177,4 +177,4 @@ ordre `icacls`. Es tracten a
 
 ---
 
-[⬅ Anterior: Sistema d'arxius](07-sistemes-d-arxius-conceptes.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md) · [Següent: Tipus de sistemes d'arxius ➡](09-tipus-de-sistemes-d-arxius.md)
+[⬅ Anterior: Sistema d'arxius](07-sistemes-d-arxius-conceptes.md) · [Següent: Tipus de sistemes d'arxius ➡](09-tipus-de-sistemes-d-arxius.md)

@@ -1,6 +1,6 @@
 [🏠 Inici](../README.md) › [RA2 · Instal·lació de sistemes operatius](00-index.md) › **7. Llicències, actualització i incidències**
 
-[⬅ Anterior: Instal·lació de Linux](06-instal-lacio-de-linux.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md)
+[⬅ Anterior: Instal·lació de Linux](06-instal-lacio-de-linux.md)
 # 7. Llicències, actualització i incidències
 
 > Criteris d'avaluació RA2.8–RA2.10 — *Descriu les incidències; respecta les normes d'utilització del
@@ -112,4 +112,4 @@ sudo do-release-upgrade    # salta a la següent versió d'Ubuntu
 
 ---
 
-[⬅ Anterior: Instal·lació de Linux](06-instal-lacio-de-linux.md) · [Índex del bloc](00-index.md) · [🏠 Inici](../README.md)
+[⬅ Anterior: Instal·lació de Linux](06-instal-lacio-de-linux.md)

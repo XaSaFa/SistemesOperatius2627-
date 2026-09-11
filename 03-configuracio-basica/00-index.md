@@ -1,6 +1,6 @@
 [🏠 Inici](../README.md) › **RA3 · Configuració bàsica del sistema operatiu**
 
-[⬅ Bloc anterior: Màquines virtuals](../05-maquines-virtuals/00-index.md) · [🏠 Inici](../README.md) · [Bloc següent: Instal·lació ➡](../02-instal-lacio-de-so/00-index.md)
+[⬅ Bloc anterior: Màquines virtuals](../05-maquines-virtuals/00-index.md) · [Bloc següent: Instal·lació ➡](../02-instal-lacio-de-so/00-index.md)
 
 # Bloc 03 · Configuració bàsica del sistema operatiu (RA3)
 
@@ -42,4 +42,4 @@ Repàs comparatiu centrat en Windows 10/11, amb els mateixos criteris d'avaluaci
 
 ---
 
-[🏠 Inici](../README.md) · [Primer tema ➡](01-arrencada-parada-i-sessions.md)
+[Primer tema ➡](01-arrencada-parada-i-sessions.md)
