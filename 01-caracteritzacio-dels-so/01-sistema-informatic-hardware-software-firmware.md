@@ -52,6 +52,8 @@ El programari d'aplicació pot ser **estàndard** (comercial, amb característiq
 
 ## 1.4. Components funcionals del maquinari
 
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/682452f3-96e4-4b16-b932-d1268efe6a24" />
+
 Model de Von Neumann. Un ordinador s'organitza en aquests blocs interconnectats pels **busos del sistema**:
 
 1. **Unitat central de procés (UCP / CPU / processador).** Controla i executa les operacions. Es compon de:
