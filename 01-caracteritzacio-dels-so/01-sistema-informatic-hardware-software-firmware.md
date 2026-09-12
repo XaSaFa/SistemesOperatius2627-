@@ -20,7 +20,7 @@ Un **sistema informàtic** és el conjunt d'elements que permeten emmagatzemar, 
 - **Microprogramari (*firmware*):** programari gravat de manera semipermanent dins de components de maquinari.
 - **Persones (*peopleware*)** i **dades**: qui fa servir el sistema i la informació que s'hi processa.
 
-<img width="471" height="270" alt="image" src="https://github.com/user-attachments/assets/0e685f1f-73f2-4106-82de-faa10d9ea3a0" />
+<img width="500"  alt="image" src="https://github.com/user-attachments/assets/0e685f1f-73f2-4106-82de-faa10d9ea3a0" />
 
 ## 1.2. Programa, aplicació i dades
 
@@ -52,7 +52,7 @@ El programari d'aplicació pot ser **estàndard** (comercial, amb característiq
 
 ## 1.4. Components funcionals del maquinari
 
-<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/682452f3-96e4-4b16-b932-d1268efe6a24" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/682452f3-96e4-4b16-b932-d1268efe6a24" />
 
 Model de Von Neumann. Un ordinador s'organitza en aquests blocs interconnectats pels **busos del sistema**:
 
