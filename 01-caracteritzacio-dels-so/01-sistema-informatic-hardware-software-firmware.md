@@ -37,6 +37,8 @@ d'E/P/S de Babbage).
 
 ## 1.3. Classificació del programari
 
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/9d4cd059-19ef-4b0a-b38e-2567dcded15a" />
+
 | Tipus | Descripció | Exemples |
 |---|---|---|
 | **Programari de base (de sistema)** | Fa funcionar l'ordinador i gestiona els recursos. Sense ell, res no s'executa. | Sistema operatiu, controladors, utilitats del sistema |
