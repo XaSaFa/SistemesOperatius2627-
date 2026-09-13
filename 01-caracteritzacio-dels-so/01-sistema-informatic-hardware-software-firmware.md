@@ -88,6 +88,8 @@ Model de Von Neumann. Un ordinador s'organitza en aquests blocs interconnectats 
 
 ## 1.5. El microprogramari (*firmware*)
 
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/aea00cdf-fe21-4121-b845-87d2f3959479" />
+
 És la part intangible (programari) que va gravada dins d'un component de maquinari, en una memòria de només
 lectura o *flash*. Estableix la lògica de més baix nivell que controla els circuits electrònics d'un dispositiu.
 
