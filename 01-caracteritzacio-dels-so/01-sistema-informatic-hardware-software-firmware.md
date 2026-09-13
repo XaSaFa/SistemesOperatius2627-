@@ -54,8 +54,6 @@ El programari d'aplicació pot ser **estàndard** (comercial, amb característiq
 
 ## 1.4. Components funcionals del maquinari
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/682452f3-96e4-4b16-b932-d1268efe6a24" />
-
 Model de Von Neumann. Un ordinador s'organitza en aquests blocs interconnectats pels **busos del sistema**:
 
 1. **Unitat central de procés (UCP / CPU / processador).** Controla i executa les operacions. Es compon de:
@@ -71,6 +69,8 @@ Model de Von Neumann. Un ordinador s'organitza en aquests blocs interconnectats 
    (bits en paral·lel) i la seva freqüència (MHz) determinen el rendiment.
 6. **Perifèrics (unitats perifèriques d'E/S).** Vegeu el [tema 6](06-gestio-es-i-interficies.md).
 
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/682452f3-96e4-4b16-b932-d1268efe6a24" />
+
 ### Tipus de memòria
 
 | Memòria | Volàtil | Es pot modificar | Ús |
@@ -80,6 +80,8 @@ Model de Von Neumann. Un ordinador s'organitza en aquests blocs interconnectats 
 | **Memòria cau (*cache*)** L1/L2/L3 | Sí | Sí | Intermèdia d'alta velocitat entre CPU i RAM |
 | **CMOS** (alimentada per pila) | Amb pila | Sí | Configuració de la BIOS, rellotge |
 | **VRAM / memòria de la GPU** | Sí | Sí | Imatge que es mostra a la pantalla |
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/e8e296d5-d214-4e45-a469-79a55a53e285" />
 
 > Un **suport d'emmagatzematge** (disc dur, SSD, memòria USB, DVD) **no és** memòria interna: és memòria
 > auxiliar o externa, **no volàtil**, més lenta que la RAM i pensada per guardar la informació de manera permanent.
