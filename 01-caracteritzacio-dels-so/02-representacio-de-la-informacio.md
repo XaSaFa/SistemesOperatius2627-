@@ -27,6 +27,9 @@ maneja l'usuari es tradueix a combinacions de **bits** mitjançant un **codi**.
 | gibibyte (GiB) | 2³⁰ B | gigabyte (GB) | 10⁹ B |
 | tebibyte (TiB) | 2⁴⁰ B | terabyte (TB) | 10¹² B |
 
+<img width="710" height="349" alt="image" src="https://github.com/user-attachments/assets/af768d49-9827-43d7-ba1f-1b6facf4c39b" />
+
+
 > Els fabricants de discos usen els prefixos decimals (1 TB = 10¹² B) i els SO sovint mostren els binaris
 > (1 TiB = 2⁴⁰ B); per això un disc «de 1 TB» apareix com ≈ 931 GiB.
 
