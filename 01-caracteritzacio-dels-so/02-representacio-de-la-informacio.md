@@ -18,9 +18,52 @@ maneja l'usuari es tradueix a combinacions de **bits** mitjançant un **codi**.
 - **Byte / octet:** grup de 8 bits. És la unitat bàsica de mesura i d'adreçament de la memòria.
 - Cada byte pot representar un caràcter (segons la taula de codis) o un valor numèric de 0 a 255.
 
-### Múltiples del byte
+### Múltiples del byte: GB vs. GiB
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/edc75bed-30b0-4dec-9cda-85f36cf9562f" />
+
+Hi ha **dos sistemes de prefixos** i, encara que sovint es confonen, **no representen la mateixa quantitat de
+bytes**:
+
+- **Prefixos decimals / SI** (kB, MB, GB, TB): potències de **10**. `1 GB = 10⁹ B = 1 000 000 000 bytes`. Són
+  els prefixos «normals» del Sistema Internacional (com en 1 km = 1 000 m).
+- **Prefixos binaris / IEC** (KiB, MiB, GiB, TiB): potències de **2**. `1 GiB = 2³⁰ B = 1 073 741 824 bytes`.
+  Es van normalitzar el 1998 (IEC 60027-2) precisament perquè abans «GB» s'utilitzava informalment amb els dos
+  significats alhora i generava ambigüitat.
+
+| Prefix binari (IEC) | Valor exacte | Prefix decimal (SI) | Valor exacte |
+|---|---|---|---|
+| kibibyte (KiB) | 2¹⁰ = 1 024 B | kilobyte (kB) | 10³ = 1 000 B |
+| mebibyte (MiB) | 2²⁰ = 1 048 576 B | megabyte (MB) | 10⁶ = 1 000 000 B |
+| gibibyte (GiB) | 2³⁰ = 1 073 741 824 B | gigabyte (GB) | 10⁹ = 1 000 000 000 B |
+| tebibyte (TiB) | 2⁴⁰ = 1 099 511 627 776 B | terabyte (TB) | 10¹² = 1 000 000 000 000 B |
+
+Com que 1 GiB (1 073 741 824 B) > 1 GB (1 000 000 000 B), **el mateix disc «pesa» menys en GiB que en GB**, i la
+diferència creix com més gran és la unitat:
+
+| | Factor de conversió |
+|---|---|
+| 1 KiB | = 1,024 kB |
+| 1 MiB | ≈ 1,049 MB |
+| 1 GiB | ≈ 1,074 GB |
+| 1 TiB | ≈ 1,100 TB |
+
+#### Qui fa servir cada prefix
+
+| Qui | Prefix real que empra | Per què |
+|---|---|---|
+| Fabricants de discos, SSD i pen drives | **Decimal** (GB, TB) | És l'estàndard SI oficial i, a més, el mateix nombre de bytes «sona» més gran en decimal (bon argument comercial) |
+| Mòduls de memòria **RAM** | **Coincideix amb el binari** | La RAM s'adreça en potències de 2, així que uns «8 GB» de RAM són, en realitat, 8 GiB exactes: no hi ha pèrdua |
+| Sistemes operatius (Explorador de Windows, `ls -lh`, Fitxers de GNOME…) | Solen **calcular en binari però etiquetar-ho «GB», «MB»…** | És la font principal de la confusió: el número que mostren és de GiB, però el rètol diu GB |
+
+> **Exemple.** Un disc s'ven com a «500 GB» (mesura decimal del fabricant):
+> `500 GB = 500 × 10⁹ B = 500 000 000 000 B`.
+> Per saber quants GiB en calcularà el sistema operatiu: `500 000 000 000 ÷ 2³⁰ ≈ 465,7 GiB`.
+> Per això un disc «de 500 GB» apareix a l'Explorador de Windows com uns «465 GB» (en realitat GiB, mal
+> etiquetats): no falten dades, és una diferència d'unitat de mesura.
+
+A Linux, `lsblk`, `df -h` o `free -h` mostren per defecte els valors en **binari** (KiB/MiB/GiB, tot i que
+alguns rotulen «K»/«M»/«G»); si es vol veure en decimal cal l'opció `--si` (per exemple `df -H` o `du --si`).
 
 > Els fabricants de discos usen els prefixos decimals (1 TB = 10¹² B) i els SO sovint mostren els binaris
 > (1 TiB = 2⁴⁰ B); per això un disc «de 1 TB» apareix com ≈ 931 GiB.

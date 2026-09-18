@@ -138,6 +138,7 @@ HTML = r"""<!doctype html>
   .content pre{background:var(--bg-code);border:1px solid var(--border);border-radius:10px;padding:14px 16px;overflow-x:auto;margin:1em 0}
   .content pre code{background:none;border:0;padding:0;font-size:13px;line-height:1.5;white-space:pre}
   .content blockquote{margin:1em 0;padding:.4em 1em;border-left:4px solid var(--accent);background:var(--accent-soft);border-radius:0 8px 8px 0}
+  .content img{max-width:100%;height:auto;display:block;margin:1.2em auto;border-radius:10px;border:1px solid var(--border)}
   .content blockquote p{margin:.3em 0}
   .content hr{border:0;border-top:1px solid var(--border);margin:2em 0}
   .table-wrap{overflow-x:auto;margin:1em 0}
@@ -221,8 +222,20 @@ function resolvePath(base, rel){
   });
   return parts.join("/");
 }
+function sanitizeImg(raw){
+  var srcM = raw.match(/\bsrc\s*=\s*["']([^"']+)["']/i);
+  if(!srcM) return "";
+  var altM = raw.match(/\balt\s*=\s*["']([^"']*)["']/i);
+  var wM = raw.match(/\bwidth\s*=\s*["']?(\d+)["']?/i);
+  var hM = raw.match(/\bheight\s*=\s*["']?(\d+)["']?/i);
+  var attrs = 'src="'+esc(srcM[1])+'" alt="'+esc(altM?altM[1]:"")+'" loading="lazy"';
+  if(wM) attrs += ' width="'+esc(wM[1])+'"';
+  if(hM) attrs += ' height="'+esc(hM[1])+'"';
+  return "<img "+attrs+">";
+}
 function renderInline(text, cur){
-  var store=[];
+  var store=[], imgs=[];
+  text = text.replace(/<img\b[^>]*>/gi,function(m){imgs.push(m);return "\u0002"+(imgs.length-1)+"\u0002";});
   text = text.replace(/`([^`]+)`/g,function(m,c){store.push(c);return "\u0000"+(store.length-1)+"\u0000";});
   text = esc(text);
   text = text.replace(/\[([^\]]+)\]\(([^)\s]+)\)/g,function(m,label,url){
@@ -239,6 +252,7 @@ function renderInline(text, cur){
   text = text.replace(/\*\*([^*]+)\*\*/g,"<strong>$1</strong>");
   text = text.replace(/\*([^*\n]+)\*/g,"<em>$1</em>");
   text = text.replace(/\u0000(\d+)\u0000/g,function(m,i){return "<code>"+esc(store[+i])+"</code>";});
+  text = text.replace(/\u0002(\d+)\u0002/g,function(m,i){return sanitizeImg(imgs[+i]);});
   return text;
 }
 function isTableSep(l){ return l.indexOf("|")>=0 && /^[\s:|-]+$/.test(l) && l.indexOf("-")>=0; }
