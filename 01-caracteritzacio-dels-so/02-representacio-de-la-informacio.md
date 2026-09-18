@@ -20,15 +20,7 @@ maneja l'usuari es tradueix a combinacions de **bits** mitjançant un **codi**.
 
 ### Múltiples del byte
 
-| Prefix binari (IEC) | Valor | Prefix decimal (SI) | Valor |
-|---|---|---|---|
-| kibibyte (KiB) | 2¹⁰ = 1 024 B | kilobyte (kB) | 10³ = 1 000 B |
-| mebibyte (MiB) | 2²⁰ B | megabyte (MB) | 10⁶ B |
-| gibibyte (GiB) | 2³⁰ B | gigabyte (GB) | 10⁹ B |
-| tebibyte (TiB) | 2⁴⁰ B | terabyte (TB) | 10¹² B |
-
-<img width="710" height="349" alt="image" src="https://github.com/user-attachments/assets/af768d49-9827-43d7-ba1f-1b6facf4c39b" />
-
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/edc75bed-30b0-4dec-9cda-85f36cf9562f" />
 
 > Els fabricants de discos usen els prefixos decimals (1 TB = 10¹² B) i els SO sovint mostren els binaris
 > (1 TiB = 2⁴⁰ B); per això un disc «de 1 TB» apareix com ≈ 931 GiB.
