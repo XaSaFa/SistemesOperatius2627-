@@ -8,6 +8,8 @@
 
 ## 2.1. Per què cal codificar
 
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/9e5e9410-e1d9-4536-96ec-fd94ae34194c" />
+
 L'ordinador només entén de **corrent elèctric**: presència (1) o absència (0) d'energia en petits condensadors
 (biestables). No pot emmagatzemar directament la lletra `A` ni el símbol `*`. Per això tota la informació que
 maneja l'usuari es tradueix a combinacions de **bits** mitjançant un **codi**.
