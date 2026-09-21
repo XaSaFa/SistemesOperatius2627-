@@ -18,6 +18,9 @@ maneja l'usuari es tradueix a combinacions de **bits** mitjançant un **codi**.
 - **Byte / octet:** grup de 8 bits. És la unitat bàsica de mesura i d'adreçament de la memòria.
 - Cada byte pot representar un caràcter (segons la taula de codis) o un valor numèric de 0 a 255.
 
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/f997ae5b-62eb-45e8-afc4-c4dcedc52582" />
+
+
 ### Múltiples del byte: GB vs. GiB
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/edc75bed-30b0-4dec-9cda-85f36cf9562f" />
