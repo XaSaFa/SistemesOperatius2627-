@@ -125,13 +125,26 @@ Exemple (base 10):  283 = 2·10² + 8·10¹ + 3·10⁰ = 200 + 80 + 3
 | **Decimal** | 10 | 0–9 | Ús humà habitual |
 | **Hexadecimal** | 16 | 0–9, A–F | Adreces de memòria, codis de color, dumps; cada dígit = 4 bits |
 
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/e9d4ac11-d222-4e66-8ea5-eb1b4febf864" />
+
 ### Conversions bàsiques
 
 - **Decimal → binari:** divisions successives entre 2; els residus, de baix a dalt.
   `26 → 11010₂`
-- **Binari → decimal:** aplicar el TFN. `11010₂ = 16+8+0+2+0 = 26`
+  
+<img width="419" height="291" alt="image" src="https://github.com/user-attachments/assets/6c61afdb-50ba-4611-94a8-cf8a25db55aa" />
+
+- **Binari → decimal:** aplicar el TFN  (Teorema Fonamental de la Numeració). `11010₂ = 16+8+0+2+0 = 26`
+
+<img width="451" height="68" alt="image" src="https://github.com/user-attachments/assets/f3700171-a20e-4028-8c91-9d85314c893d" />
+
 - **Binari ↔ octal:** agrupar bits de 3 en 3 (des de la dreta). `11 010₂ = 32₈`
+
+<img width="285" height="330" alt="image" src="https://github.com/user-attachments/assets/8f91d862-65a4-4b2a-9897-6d6e15f4eaaf" />
+
 - **Binari ↔ hexadecimal:** agrupar bits de 4 en 4. `0001 1010₂ = 1A₁₆`
+
+<img width="500"  alt="image" src="https://github.com/user-attachments/assets/1c7e974c-17f6-4247-82ab-aa44a67c6011" />
 
 ### Taula d'equivalència (0–15)
 
@@ -164,6 +177,10 @@ Exemple (base 10):  283 = 2·10² + 8·10¹ + 3·10⁰ = 200 + 80 + 3
 | **UTF-8** | 1–4 bytes | Tot Unicode | Codificació dominant a web, Linux i macOS; compatible cap enrere amb ASCII |
 | **UTF-16** | 2 o 4 bytes | Tot Unicode | Ús intern a Windows i Java |
 
+**Taula ASCII:** American Standard Code for Information Interchange
+
+<img width="696" height="566" alt="image" src="https://github.com/user-attachments/assets/56c00871-1139-4ea2-9187-a041e408a8d8" />
+
 > Quan un fitxer de text es llegeix amb una codificació diferent de la que es va desar, els accents es veuen
 > corruptes (*mojibake*): `Ã±` en lloc de `ñ`. La solució és indicar la codificació correcta (habitualment UTF-8).
 
@@ -186,8 +203,7 @@ Exemple (base 10):  283 = 2·10² + 8·10¹ + 3·10⁰ = 200 + 80 + 3
 1. Converteix `45` decimal a binari, octal i hexadecimal.
 2. Converteix `1011 1100₂` a hexadecimal i a decimal.
 3. Quants caràcters diferents pot representar un codi de 8 bits? I un de 7?
-4. Per què UTF-8 és compatible «cap enrere» amb ASCII?
-5. Un disc anunciat com a 500 GB, quants GiB mostrarà aproximadament el sistema operatiu?
+
 
 ---
 
