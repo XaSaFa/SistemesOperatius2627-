@@ -71,6 +71,39 @@ alguns rotulen «K»/«M»/«G»); si es vol veure en decimal cal l'opció `--si
 > Els fabricants de discos usen els prefixos decimals (1 TB = 10¹² B) i els SO sovint mostren els binaris
 > (1 TiB = 2⁴⁰ B); per això un disc «de 1 TB» apareix com ≈ 931 GiB.
 
+### Activitats de repàs
+
+**Exercici 1: Unitats bàsiques i capacitat (Bits i Bytes)**
+
+Un fitxer de text conté exactament 256 Bytes d'informació.
+
+1. Quants bits ocupa aquest fitxer a la memòria?
+2. Quin és el valor numèric màxim (en decimal) que es pot emmagatzemar en un sol Byte?
+
+**Exercici 2: Prefixos decimals (SI) vs. binaris (IEC)**
+
+Tenim dos fitxers de dades:
+
+- El Fitxer A té una mida de 4 MB (megabytes, segons l'estàndard decimal SI).
+- El Fitxer B té una mida de 4 MiB (mebibytes, segons l'estàndard binari IEC).
+
+Quin dels dos fitxers té una mida real més gran en bytes i quants bytes de diferència hi ha entre tots dos?
+
+**Exercici 3: El «fals» espai perdut als discos durs**
+
+Un alumne ha comprat un pendrive de 64 GB (mesura comercial del fabricant). Quan el connecta a un ordinador amb Windows, l'Explorador li indica que la capacitat total és d'aproximadament 59,6 GB.
+
+1. Per què hi ha aquesta diferència si el disc no té cap dada danyada?
+2. Realitza el càlcul matemàtic exactat per comprovar d'on surt la xifra de 59,6 GiB.
+
+**Exercici 4: Memòria RAM vs. Disc SSD**
+
+Un ordinador té instal·lats 16 GB de RAM i un disc SSD de 16 GB.
+
+- Els 16 GB de la memòria RAM equivalen exactament a $16 \times 10^9$ bytes o a $16 \times 2^{30}$ bytes? Justifica la resposta.
+- Quants bytes reals té el disc SSD de 16 GB?
+- Quina memòria és més gran la RAM o la del SSD?
+
 ## 2.2. Sistemes de numeració
 
 Un **sistema de numeració** és el conjunt de símbols i regles per representar quantitats. Es caracteritza per la
