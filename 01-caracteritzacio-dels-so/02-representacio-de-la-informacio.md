@@ -23,8 +23,6 @@ maneja l'usuari es tradueix a combinacions de **bits** mitjançant un **codi**.
 
 ### Múltiples del byte: GB vs. GiB
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/edc75bed-30b0-4dec-9cda-85f36cf9562f" />
-
 Hi ha **dos sistemes de prefixos** i, encara que sovint es confonen, **no representen la mateixa quantitat de
 bytes**:
 
@@ -78,7 +76,6 @@ alguns rotulen «K»/«M»/«G»); si es vol veure en decimal cal l'opció `--si
 Un fitxer de text conté exactament 256 Bytes d'informació.
 
 1. Quants bits ocupa aquest fitxer a la memòria?
-2. Quin és el valor numèric màxim (en decimal) que es pot emmagatzemar en un sol Byte?
 
 **Exercici 2: Prefixos decimals (SI) vs. binaris (IEC)**
 
@@ -93,8 +90,7 @@ Quin dels dos fitxers té una mida real més gran en bytes i quants bytes de dif
 
 Un alumne ha comprat un pendrive de 64 GB (mesura comercial del fabricant). Quan el connecta a un ordinador amb Windows, l'Explorador li indica que la capacitat total és d'aproximadament 59,6 GB.
 
-1. Per què hi ha aquesta diferència si el disc no té cap dada danyada?
-2. Realitza el càlcul matemàtic exactat per comprovar d'on surt la xifra de 59,6 GiB.
+- Per què hi ha aquesta diferència si el disc no té cap dada danyada?
 
 **Exercici 4: Memòria RAM vs. Disc SSD**
 
