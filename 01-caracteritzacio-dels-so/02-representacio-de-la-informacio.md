@@ -198,10 +198,50 @@ Exemple (base 10):  283 = 2·10² + 8·10¹ + 3·10⁰ = 200 + 80 + 3
 
 1. Converteix `45` decimal a binari, octal i hexadecimal.
 2. Converteix `1011 1100₂` a hexadecimal i a decimal.
-3. Quants caràcters diferents pot representar un codi de 8 bits? I un de 7?
+3. Quants caràcters diferents pot representar un codi de 8 bits? I un de 7
 4. Quants bits d'un nombre binari s'han d'agrupar per convertir-lo directament a un dígit hexadecimal?
 5. Quina és la codificació de caràcters dominant a la web que és compatible cap enrere amb l'estàndard ASCII?
 
+## Practica
+1. Decimal → Binari
+
+a) 8₁₀ = ______₂
+b) 13₁₀ = ______₂
+c) 26₁₀ = ______₂
+
+2. Binari → Decimal
+
+a) 101₂ = ______₁₀
+b) 1101₂ = ______₁₀
+c) 11010₂ = ______₁₀
+
+3. Binari → Octal
+
+a) 101₂ = ______₈
+b) 101101₂ = ______₈
+c) 11010₂ = ______₈
+
+4. Octal → Binari
+
+a) 5₈ = ______₂
+b) 12₈ = ______₂
+c) 25₈ = ______₂
+
+5. Binari → Hexadecimal
+
+a) 1010₂ = ______₁₆
+b) 0001 1010₂ = ______₁₆
+c) 1011 1100₂ = ______₁₆
+
+6. Conversions combinades
+
+Completa la taula:
+
+Decimal	Binari	Octal	Hexadecimal
+10	______	______	______
+15	______	______	______
+26	______	______	______
+32	______	______	______
 
 ---
 
