@@ -205,43 +205,66 @@ Exemple (base 10):  283 = 2·10² + 8·10¹ + 3·10⁰ = 200 + 80 + 3
 ## Practica
 1. Decimal → Binari
 
+Converteix els nombres decimals a binari utilitzant divisions successives entre 2.
+
 a) 8₁₀ = ______₂
 b) 13₁₀ = ______₂
-c) 26₁₀ = ______₂
+c) 18₁₀ = ______₂
+d) 26₁₀ = ______₂
 
 2. Binari → Decimal
 
+Converteix els nombres binaris a decimal aplicant el Teorema Fonamental de la Numeració (TFN).
+
 a) 101₂ = ______₁₀
 b) 1101₂ = ______₁₀
-c) 11010₂ = ______₁₀
+c) 10010₂ = ______₁₀
+d) 11010₂ = ______₁₀
 
 3. Binari → Octal
 
+Converteix els nombres binaris a octal agrupant els bits de 3 en 3, començant per la dreta.
+
 a) 101₂ = ______₈
-b) 101101₂ = ______₈
-c) 11010₂ = ______₈
+b) 110₂ = ______₈
+c) 101101₂ = ______₈
+d) 11010₂ = ______₈
 
 4. Octal → Binari
 
+Converteix els nombres octals a binari. Recorda que cada dígit octal correspon a 3 bits.
+
 a) 5₈ = ______₂
-b) 12₈ = ______₂
-c) 25₈ = ______₂
+b) 7₈ = ______₂
+c) 12₈ = ______₂
+d) 25₈ = ______₂
 
 5. Binari → Hexadecimal
 
+Converteix els nombres binaris a hexadecimal agrupant els bits de 4 en 4, començant per la dreta.
+
 a) 1010₂ = ______₁₆
-b) 0001 1010₂ = ______₁₆
-c) 1011 1100₂ = ______₁₆
+b) 1111₂ = ______₁₆
+c) 0001 1010₂ = ______₁₆
+d) 1011 1100₂ = ______₁₆
 
-6. Conversions combinades
+6. Hexadecimal → Binari
 
-Completa la taula:
+Converteix els nombres hexadecimals a binari. Recorda que cada dígit hexadecimal correspon a 4 bits.
 
-Decimal	Binari	Octal	Hexadecimal
-10	______	______	______
-15	______	______	______
-26	______	______	______
-32	______	______	______
+a) A₁₆ = ______₂
+b) F₁₆ = ______₂
+c) 1A₁₆ = ______₂
+d) 2F₁₆ = ______₂
+
+7. Hexadecimal → Decimal
+
+Converteix els nombres hexadecimals a decimal aplicant el Teorema Fonamental de la Numeració.
+
+a) A₁₆ = ______₁₀
+b) 10₁₆ = ______₁₀
+c) 1A₁₆ = ______₁₀
+d) 2F₁₆ = ______₁₀
 
 ---
 
