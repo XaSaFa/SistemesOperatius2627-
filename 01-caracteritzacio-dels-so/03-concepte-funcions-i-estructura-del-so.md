@@ -94,7 +94,7 @@ directament el nucli ni la memòria d'altres processos.
 
 Maquinari i SO evolucionen **conjuntament**: cada generació de maquinari fa possibles SO més potents, i les
 necessitats dels SO empenyen el maquinari.
-[Video evolució de computació:(https://www.youtube.com/watch?v=qBoJj6cvH-A)]
+Video evolució de computació: (https://www.youtube.com/watch?v=qBoJj6cvH-A)
 ## 3.7. Resum
 
 - El SO és **màquina estesa** (amaga complexitat) i **gestor de recursos** (reparteix CPU, memòria, E/S i fitxers).
