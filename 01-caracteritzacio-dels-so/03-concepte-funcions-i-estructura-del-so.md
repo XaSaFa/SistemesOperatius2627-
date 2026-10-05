@@ -106,7 +106,7 @@ directament el nucli ni la memòria d'altres processos.
 | 3a | 1965–1980 | Circuits integrats | Multiprogramació, temps compartit, primers SO multiusuari |
 | 4a | 1980–avui | Microprocessadors, PC | SO amb GUI, multitasca, xarxa, virtualització, mòbils i núvol |
 
-<img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/490cbaf0-1476-4fae-84e6-53ac12ee9440" />
+<img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/a8f2daf2-087d-4a95-b60f-921c9ccebc1b" />
 
 Maquinari i SO evolucionen **conjuntament**: cada generació de maquinari fa possibles SO més potents, i les
 necessitats dels SO empenyen el maquinari.
