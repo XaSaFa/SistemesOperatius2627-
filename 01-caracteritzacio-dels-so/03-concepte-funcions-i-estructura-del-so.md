@@ -85,6 +85,8 @@ directament el nucli ni la memòria d'altres processos.
 | **Supervisor** | Comunica cada procés entre el sistema i l'usuari |
 | **Usuari** | Mostra a l'usuari el procés en execució o el que es vol executar |
 
+<img width="572" alt="image" src="https://github.com/user-attachments/assets/21f920be-58f0-4abc-881e-0ec8bd1952e6" />
+
 ## 3.5. Serveis i interfícies
 
 - Un **servei** (Windows) o **dimoni** (*daemon*, Linux) és una aplicació que s'executa en segon pla i ofereix
