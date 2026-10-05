@@ -87,6 +87,8 @@ directament el nucli ni la memòria d'altres processos.
 - Les **interfícies** connecten els nivells: crides al sistema (aplicació ↔ nucli), interfície d'usuari
   (persona ↔ SO) i controladors (SO ↔ maquinari). Vegeu el [tema 6](06-gestio-es-i-interficies.md).
 
+<img width="600" height="401" alt="image" src="https://github.com/user-attachments/assets/f590ce4f-ef46-43da-bee7-19d068cb6767" />
+
 ## 3.6. Evolució històrica (resum)
 
 | Generació | Període | Maquinari | SO / mode d'explotació |
