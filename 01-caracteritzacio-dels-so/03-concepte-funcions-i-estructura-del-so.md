@@ -72,6 +72,8 @@ directament el nucli ni la memòria d'altres processos.
 | **Micronucli (*microkernel*)** | Al nucli només hi ha el mínim (planificació, memòria, comunicació entre processos); la resta són serveis en mode usuari. Molt robust, però amb sobrecàrrega de comunicació. | MINIX 3, QNX, GNU Hurd |
 | **Màquina virtual** | El nucli emula maquinari perquè cada procés o cada SO convidat s'executi en un entorn aïllat. Base de la [virtualització](../05-maquines-virtuals/00-index.md). | z/VM, hipervisors moderns |
 
+<img width="950"  alt="image" src="https://github.com/user-attachments/assets/30b34737-66ca-4c4a-895d-4a95195f1b20" />
+
 ### Nivells clàssics d'un SO (model didàctic de 4 capes)
 
 | Nivell | Funció |
