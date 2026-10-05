@@ -50,6 +50,8 @@ A més gestiona **usuaris i seguretat**, **xarxa** i el **control d'errors** de 
 
 ## 3.4. Estructura interna: el nucli i els modes d'execució
 
+<img width="600" height="401" alt="image" src="https://github.com/user-attachments/assets/f590ce4f-ef46-43da-bee7-19d068cb6767" />
+
 El processador té (com a mínim) dos **modes d'execució**:
 
 - **Mode nucli / privilegiat / *kernel*:** accés total al maquinari i a totes les instruccions. Hi s'executa
@@ -92,8 +94,6 @@ directament el nucli ni la memòria d'altres processos.
   (persona ↔ SO) i controladors (SO ↔ maquinari). Vegeu el [tema 6](06-gestio-es-i-interficies.md).
 
 <img width="950" alt="image" src="https://github.com/user-attachments/assets/29cf961c-db86-4d27-9e96-e97ffa386afb" />
-
-<img width="600" height="401" alt="image" src="https://github.com/user-attachments/assets/f590ce4f-ef46-43da-bee7-19d068cb6767" />
 
 ## 3.6. Evolució històrica (resum)
 
