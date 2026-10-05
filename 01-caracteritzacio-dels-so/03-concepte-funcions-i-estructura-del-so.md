@@ -19,7 +19,7 @@ Compleix dues funcions complementàries:
 - **Gestor de recursos:** reparteix de manera ordenada, eficient i segura els recursos limitats de la màquina
   entre els programes i els usuaris que competeixen per ells.
 
-<img width="950" height="627" alt="image" src="https://github.com/user-attachments/assets/b8ae5bc6-355a-411e-bbd6-58a2fbc87e1d" />
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/b8ae5bc6-355a-411e-bbd6-58a2fbc87e1d" />
 
 
 ## 3.2. Recursos que gestiona
@@ -33,6 +33,8 @@ Compleix dues funcions complementàries:
 
 A més gestiona **usuaris i seguretat**, **xarxa** i el **control d'errors** de maquinari i programari.
 
+<img width="950"  alt="image" src="https://github.com/user-attachments/assets/c862d72c-7d2c-4a5c-bc69-7e78eba3d14c" />
+
 ## 3.3. Funcions principals
 
 - Control i execució de programes (processos).
@@ -43,6 +45,8 @@ A més gestiona **usuaris i seguretat**, **xarxa** i el **control d'errors** de 
 - Comunicació amb l'usuari (interfície de text i gràfica).
 - Detecció i tractament d'errors; registre d'activitat (*logs*).
 - Serveis de xarxa i comunicació entre processos.
+
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/6fc2c2df-3eff-4baa-a00d-ace61237c241" />
 
 ## 3.4. Estructura interna: el nucli i els modes d'execució
 
