@@ -14,6 +14,8 @@
 
 Segons el context, un procés també s'anomena **tasca** o **treball**.
 
+[Exemple](https://github.com/XaSaFa/SistemesOperatius2627-/blob/main/01-caracteritzacio-dels-so/1744996232293.gif)
+
 ## 4.2. Bloc de control de procés (BCP / PCB)
 
 Per cada procés, el SO manté una estructura de dades única, el **BCP**, amb tota la informació que necessita
@@ -30,6 +32,8 @@ Els processos formen una **jerarquia**: cada procés el crea un altre (**procés
 Linux, el procés arrel és `systemd`/`init` (PID 1). Si el pare acaba abans que el fill, aquest queda **orfe** i
 l'adopta PID 1.
 
+<img width="660" height="484" alt="image" src="https://github.com/user-attachments/assets/acef53b3-4a9f-4b5a-ab16-c725e5c868ea" />
+
 ## 4.3. Fils d'execució (*threads*)
 
 Un **fil** (bri, *thread*) és un punt d'execució dins d'un procés. Tot procés té almenys un fil; pot tenir-ne
@@ -40,6 +44,8 @@ cadascun té la seva pila i el seu comptador de programa.
   alhora corregeix ortografia, desa una còpia i renderitza).
 - Exemple del llibre: obrir un segon document a Word **no** llança un segon procés Word; crea un fil nou del
   procés existent.
+
+<img width="340" height="205" alt="image" src="https://github.com/user-attachments/assets/9a0e2a81-7d45-4c00-a505-0d9e86ac7662" />
 
 ## 4.4. Estats d'un procés
 
@@ -55,6 +61,8 @@ Model bàsic de tres estats:
                      BLOQUEJAT ◄───────────────────────────────┘
                                                               ► TERMINAT
 ```
+<img width="800" height="274" alt="image" src="https://github.com/user-attachments/assets/a863658c-ef59-4f3a-bb47-697ceec6a095" />
+
 
 | Estat | Descripció |
 |---|---|
