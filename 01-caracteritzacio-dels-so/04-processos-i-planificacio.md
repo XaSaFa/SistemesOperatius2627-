@@ -134,6 +134,7 @@ durant quant de temps, per assolir objectius com **equitat**, **eficiència**, *
 
 - [FCFS](fcfs.md)
 - [SJF](sjf.md)
+- [RR](rr.md)
 
 ## 4.7. Concurrència i multiprocessador
 
