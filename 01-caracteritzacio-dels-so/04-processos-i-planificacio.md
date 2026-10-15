@@ -133,6 +133,7 @@ durant quant de temps, per assolir objectius com **equitat**, **eficiència**, *
 ## 4.6.2 Algoritmes de planificació
 
 - [FCFS](fcfs.md)
+- [SJF](sjf.md)
 
 ## 4.7. Concurrència i multiprocessador
 
