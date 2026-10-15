@@ -114,6 +114,10 @@ durant quant de temps, per assolir objectius com **equitat**, **eficiència**, *
 > usa un planificador **expropiatiu per prioritats** amb 32 nivells i realimentació. Tots dos són evolucions de
 > Round-Robin + prioritats.
 
+### Algoritmes de planificació:
+
+- [FCFS](fcfs.md)
+
 ## 4.7. Concurrència i multiprocessador
 
 - Amb **una sola CPU** la multitasca és **aparent** (pseudoparal·lelisme): la CPU alterna processos molt de
