@@ -1,4 +1,5 @@
 <img width="669" height="291" alt="image" src="https://github.com/user-attachments/assets/6f2cdc58-0929-41ad-805b-62ef494317d6" />
+
 ## Càlcul del temps de retorn i del temps d'espera
 
 **Fórmules:**
