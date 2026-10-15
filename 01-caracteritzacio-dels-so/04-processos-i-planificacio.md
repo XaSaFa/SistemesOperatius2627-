@@ -121,7 +121,7 @@ durant quant de temps, per assolir objectius com **equitat**, **eficiència**, *
 - **Temps d’espera**: Temps d’un procés en la cua de processos preparats → **Minimitzar**
 - **Temps de resposta**: Temps que tarda un procés en donar la primera resposta → **Minimitzar**
 
-###Formules:
+**Formules:**
   - El **temps de retorn** és el temps transcorregut des que arriba un procés fins a la seva finalització:
 
   **tretorn = tacabada - tarribada**
