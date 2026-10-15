@@ -113,8 +113,23 @@ durant quant de temps, per assolir objectius com **equitat**, **eficiència**, *
 > Linux modern fa servir el **CFS** (*Completely Fair Scheduler*) i, des de la versió 6.6, **EEVDF**; Windows
 > usa un planificador **expropiatiu per prioritats** amb 32 nivells i realimentació. Tots dos són evolucions de
 > Round-Robin + prioritats.
+## 4.6.1 Paràmetres d’avaluació dels planificadors
 
-### Algoritmes de planificació:
+- **Utilització de la CPU**: Mantenir la CPU tan ocupada com sigui possible → **Maximitzar**
+- **Productivitat de la CPU**: Nombre de processos per unitat de temps que finalitzen → **Maximitzar**
+- **Temps de retorn**: Temps que tarda un procés en executar-se → **Minimitzar**
+- **Temps d’espera**: Temps d’un procés en la cua de processos preparats → **Minimitzar**
+- **Temps de resposta**: Temps que tarda un procés en donar la primera resposta → **Minimitzar**
+
+  - El **temps de retorn** és el temps transcorregut des que arriba un procés fins a la seva finalització:
+
+  **tretorn = tacaba - tarriba**
+
+- El **temps d'espera** és el temps de retorn menys el temps d'execució:
+
+  **tespera = tretorn - tCPU**
+  
+## 4.6.2 Algoritmes de planificació
 
 - [FCFS](fcfs.md)
 
