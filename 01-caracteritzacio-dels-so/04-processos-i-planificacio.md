@@ -136,6 +136,8 @@ durant quant de temps, per assolir objectius com **equitat**, **eficiència**, *
 - [SJF](sjf.md)
 - [RR](rr.md)
 
+- [Exercicis de planificació de tasques](exercicis_planificacio_tasques.md)
+
 ## 4.7. Concurrència i multiprocessador
 
 - Amb **una sola CPU** la multitasca és **aparent** (pseudoparal·lelisme): la CPU alterna processos molt de
@@ -159,6 +161,10 @@ durant quant de temps, per assolir objectius com **equitat**, **eficiència**, *
 4. Per què amb una sola CPU la multitasca es diu «aparent»?
 5. Un procés en estat bloquejat, consumeix temps de CPU? I un en estat preparat?
 6. Quin algorisme de planificació faries servir per a una cua d'impressió i per què?
+
+
+
+
 
 ---
 
