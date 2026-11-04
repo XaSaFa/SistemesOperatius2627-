@@ -7,6 +7,8 @@
 > Criteris d'avaluació RA1.1 i RA1.3 — *Recursos del sistema operatiu i estats dels processos.*
 > Relacionat amb RA4.5 — *optimització de la memòria disponible* ([RA4 · monitoratge](../04-administracio-del-so/05-monitoratge-rendiment-i-registres.md)).
 
+<img width="705" height="307" alt="image" src="https://github.com/user-attachments/assets/94f373db-b028-4873-af95-5e6fea4ca3ea" />
+
 ## 5.1. Per què cal gestionar la memòria
 
 Perquè un procés s'executi, el seu codi i les seves dades han d'estar a la **memòria principal (RAM)**. La RAM
@@ -37,29 +39,49 @@ Perquè un procés s'executi, el seu codi i les seves dades han d'estar a la **m
 | **Reubicació / compactació** | Es mouen els processos per ajuntar l'espai lliure. | Cost de moure dades |
 | **Memòria no contigua (paginació/segmentació)** | El procés s'esparella per la RAM en trossos. | Necessita taules de traducció |
 
+**Fragmentació Interna:**
+
+<img width="424" height="327" alt="image" src="https://github.com/user-attachments/assets/e293c727-d6e7-4485-8603-0d1cac36492f" />
+
+**Fragmentació Externa:**
+
+<img width="637" height="320" alt="image" src="https://github.com/user-attachments/assets/9fc43144-6b51-41ae-a89f-d87cbfe31fa1" />
+
 ## 5.4. Paginació, segmentació i intercanvi
 
 - **Paginació:** la RAM es divideix en marcs (*frames*) de mida fixa i els processos en **pàgines** de la
   mateixa mida. Una **taula de pàgines** relaciona cada pàgina lògica amb el marc físic on és; els marcs no
   cal que siguin contigus. Elimina la fragmentació externa.
+
+<img width="645" height="314" alt="image" src="https://github.com/user-attachments/assets/a7112ab7-446e-406e-bfb5-beb958f9c8bb" />
+  
 - **Segmentació:** la memòria es veu com un conjunt de **segments** de mida variable (codi, dades, pila…), més
   propers a l'estructura lògica del programa. Pot patir fragmentació externa. Sovint es combina amb paginació
   (**segmentació paginada**).
+
+  <img width="490" height="390" alt="image" src="https://github.com/user-attachments/assets/304b2991-eee8-4df0-b3ce-bdc520a13f19" />
+
+  <img width="661" height="332" alt="image" src="https://github.com/user-attachments/assets/d3cb39c9-3ea1-43d6-a220-d8ffd339774f" />
+
 - **Intercanvi (*swapping*):** un procés (o part) que no s'està executant es trasllada a una **zona d'intercanvi**
   del disc (**partició swap** a Linux; **fitxer de paginació** `pagefile.sys` a Windows) per alliberar RAM;
   torna quan cal (*swap-in* / *swap-out*).
+
+  <img width="537" height="465" alt="image" src="https://github.com/user-attachments/assets/0414f0f7-8089-4cee-b006-f0f9f5b9dda5" />
 
 ## 5.5. Memòria virtual
 
 Tècnica que permet que el programari faci servir **més memòria de la que hi ha físicament**, usant el disc com
 a extensió de la RAM.
 
+<img width="322" height="171" alt="image" src="https://github.com/user-attachments/assets/11843fea-a646-4c10-8418-6a31e5105f29" />
+
 - Només es manté a la RAM la part del procés que s'està fent servir; la resta queda al disc.
-- Quan la CPU necessita una pàgina que no és a la RAM es produeix un **fallo de pàgina (*page fault*)**: el SO
+- Quan la CPU necessita una pàgina que no és a la RAM es produeix una **errada de pàgina (*page fault*)**: el SO
   la porta del disc a un marc lliure (i, si cal, en treu una altra segons un algorisme de reemplaçament: LRU,
   FIFO, rellotge…).
 - **Avantatge:** es poden executar programes més grans que la RAM i tenir més processos actius.
-- **Inconvenient:** si es passa RAM (**hipepaginació / *thrashing***), el sistema es dedica gairebé només a
+- **Inconvenient:** si es passa RAM (**hiperpaginació / *thrashing***), el sistema es dedica gairebé només a
   moure pàgines entre disc i RAM i s'alenteix moltíssim. La solució real és **afegir RAM**.
 
 ### Configuració pràctica
@@ -100,7 +122,7 @@ a extensió de la RAM.
 
 1. Diferència entre adreça lògica i adreça física. Qui fa la traducció?
 2. Fragmentació interna i externa: en quina tècnica apareix cadascuna?
-3. Què és un fallo de pàgina i què fa el SO quan es produeix?
+3. Què és una errada de pàgina i què fa el SO quan es produeix?
 4. Per què l'ús excessiu de memòria virtual alenteix tant el sistema?
 5. On es configura la memòria virtual a Windows i a Linux?
 
