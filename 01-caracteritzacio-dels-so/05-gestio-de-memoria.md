@@ -39,10 +39,11 @@ Perquè un procés s'executi, el seu codi i les seves dades han d'estar a la **m
 | **Reubicació / compactació** | Es mouen els processos per ajuntar l'espai lliure. | Cost de moure dades |
 | **Memòria no contigua (paginació/segmentació)** | El procés s'esparella per la RAM en trossos. | Necessita taules de traducció |
 
-**Particions fixes (Fragmentació interna):**
+## 5.3.1. Particions fixes (Fragmentació interna):**
 <img width="796" height="269" alt="image" src="https://github.com/user-attachments/assets/6c1765ca-50f6-4895-b351-aa4b81e2fde4" />
 
-**Particions variables(Fragmentació externa):**
+
+## 5.3.2. Particions variables (Fragmentació interna):**
 <img width="662" height="540" alt="image" src="https://github.com/user-attachments/assets/3d56911a-cb21-4dc3-ae35-efb6107e13d0" />
 
 
