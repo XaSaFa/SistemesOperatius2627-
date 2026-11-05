@@ -43,7 +43,7 @@ Perquè un procés s'executi, el seu codi i les seves dades han d'estar a la **m
 <img width="796" height="269" alt="image" src="https://github.com/user-attachments/assets/6c1765ca-50f6-4895-b351-aa4b81e2fde4" />
 
 
-## 5.3.2. Particions variables (Fragmentació interna):
+## 5.3.2. Particions variables (Fragmentació externa):
 <img width="662" height="540" alt="image" src="https://github.com/user-attachments/assets/3d56911a-cb21-4dc3-ae35-efb6107e13d0" />
 
 
