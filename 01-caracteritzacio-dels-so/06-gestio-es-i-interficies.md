@@ -103,11 +103,16 @@ La **interfície d'usuari** és el mitjà de comunicació entre la persona i l'o
 
 ## Comprova què has après
 
-1. Classifica: teclat, impressora, SSD, pantalla tàctil → entrada, sortida o E/S?
+1. Classifica: teclat, impressora 3D, SSD, pantalla tàctil en perifèrics d'entrada, sortida o E/S?
 2. Diferència entre E/S per interrupcions i DMA.
-3. Per què cal «expulsar amb seguretat» una memòria USB?
+3. Si s'extreu una memòria USB sense fer servir l'opció d'expulsió segura del sistema operatiu, es poden perdre dades recents. Quina actuació del sistema operatiu sobre la memòria intermèdia (buffering) i la memòria cau de disc explica aquesta necessitat?
 4. Dona dos avantatges de la CLI sobre la GUI per administrar un servidor.
-5. Quin és el símbol del sistema de Bash per a un usuari normal i per a root?
+5. Un administrador de sistemes gestiona un servidor remot mitjançant una sessió de text per automatitzar tasques amb baix consum de recursos, i observa el símbol del sistema admin@servidor:~# a Bash. Quina interfície utilitza i amb quin nivell d'usuari opera?
+6. Si la comunicació en paral·lel és, en principi, més ràpida perquè s'utilitza la comunicació sèrie?
+7. Un servidor rep constantment grans volums de dades a través d'una targeta de xarxa moderna i les desa en un disc dur. Quina tècnica d'entrada/sortida permet transferir aquestes dades entre el dispositiu i la memòria RAM sense passar per la CPU?
+8. Un canal de comunicació entre dos dispositius permet enviar informació en tots dos sentits, però obliga que un extrem esperi que l'altre acabi de transmetre abans de poder respondre. Quina forma de transmissió descriu aquesta situació?
+9. Quina diferència hi ha entre un perifèric i un suport, i quines tres característiques defineixen el suport respecte a la memòria RAM?
+10. Segons la manera de tractar la informació, en què es diferencien els perifèrics de bloc dels perifèrics de caràcter? Esmenta almenys un exemple de cada tipus que aparegui als apunts.
 
 ---
 
