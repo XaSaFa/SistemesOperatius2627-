@@ -48,6 +48,8 @@ i tracta els errors.
 - **Símplex** (un sol sentit), **semidúplex / *half-duplex*** (dos sentits, no alhora), **dúplex / *full-duplex***
   (dos sentits simultanis).
 
+  [Vídeo sèrie i paral·lel](https://www.youtube.com/watch?v=ZQ-Jb__HTyo)
+
   <img width="516" height="594" alt="image" src="https://github.com/user-attachments/assets/56db65f6-167c-4f33-b498-ea8011a25d90" />
 
   <img width="467" height="656" alt="image" src="https://github.com/user-attachments/assets/2d79fe28-aac5-4f49-bef8-02d86df5df52" />
