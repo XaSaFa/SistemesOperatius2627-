@@ -143,6 +143,10 @@ separen amb `\` (Windows/CMD) o `/` (Linux, i també Windows en molts contextos)
 4. A Linux, quantes lletres d'unitat hi ha? Com s'hi accedeix a una memòria USB?
 5. Quin risc té triar una mida de clúster molt gran en un disc amb molts fitxers petits?
 
+## Exercicis de comandes
+
+- [Comandes sobre directoris]()
+
 ---
 
 [⬅ Anterior: E/S i interfícies](06-gestio-es-i-interficies.md) · [Següent: Arxius, atributs i permisos ➡](08-arxius-directoris-atributs-i-permisos.md)
