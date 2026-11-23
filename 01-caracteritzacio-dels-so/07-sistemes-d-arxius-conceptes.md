@@ -145,7 +145,7 @@ separen amb `\` (Windows/CMD) o `/` (Linux, i també Windows en molts contextos)
 
 ## Exercicis de comandes
 
-- [Comandes sobre directoris]()
+- [Comandes sobre directoris](Exercicis-directoris.md)
 
 ---
 
