@@ -1,6 +1,6 @@
 [🏠 Inici](../README.md) › [RA1 · Caracterització dels sistemes operatius](00-index.md) › **7. El sistema d'arxius: conceptes**
 
-[⬅ Anterior: E/S i interfícies](06-gestio-es-i-interficies.md) · [Següent: Arxius, atributs i permisos ➡](08-arxius-directoris-atributs-i-permisos.md)
+[⬅ Anterior: E/S i interfícies](06-gestio-es-i-interficies.md) · [Següent: Operacions amb directoris ➡](07.1-operacions-amb-directoris.md)
 
 # 7. El sistema d'arxius: conceptes
 
@@ -145,8 +145,10 @@ separen amb `\` (Windows/CMD) o `/` (Linux, i també Windows en molts contextos)
 
 ## Exercicis de comandes
 
-- [Comandes sobre directoris](exercicis-directoris.md)
+Les ordres pràctiques sobre directoris i fitxers es treballen en dos temes separats:
+[7.1. Operacions amb directoris](07.1-operacions-amb-directoris.md) i
+[7.2. Operacions amb fitxers](07.2-operacions-amb-fitxers.md).
 
 ---
 
-[⬅ Anterior: E/S i interfícies](06-gestio-es-i-interficies.md) · [Següent: Arxius, atributs i permisos ➡](08-arxius-directoris-atributs-i-permisos.md)
+[⬅ Anterior: E/S i interfícies](06-gestio-es-i-interficies.md) · [Següent: Operacions amb directoris ➡](07.1-operacions-amb-directoris.md)
