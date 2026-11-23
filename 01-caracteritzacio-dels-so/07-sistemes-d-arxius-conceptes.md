@@ -27,6 +27,8 @@ a quin fitxer, quins estan lliures i quins són defectuosos.
 - **Volum / unitat lògica:** partició formatada i llesta per usar. A Windows es representa amb una **lletra**
   (`C:`, `D:`…); a Linux es **munta** sobre un directori (per exemple `/`, `/home`, `/media/usb`).
 
+<img width="800"  alt="image" src="https://github.com/user-attachments/assets/0d02c162-f207-4a8d-bb6e-fe26a779e30e" />
+
 ## 7.3. Organització física i lògica d'un disc
 
 ### Estructura física (la crea el fabricant, format a baix nivell)
@@ -38,8 +40,12 @@ a quin fitxer, quins estan lliures i quins són defectuosos.
 | **Cilindres (*cylinders*)** | Conjunt de pistes amb el mateix número en totes les cares. |
 | **Sectors** | Divisió de cada pista; **unitat mínima de lectura/escriptura física**. 512 B (clàssic) o **4 KiB** (Advanced Format, actual). |
 
+<img width="800"  alt="image" src="https://github.com/user-attachments/assets/8fea240b-0bd9-456d-a35d-7082c630b73a" />
+
 > En un **SSD** no hi ha plats ni pistes: la informació es guarda en cel·les de memòria *flash* NAND
 > organitzades en pàgines i blocs. El SO, però, hi segueix veient un espai adreçable per **sectors lògics** (LBA).
+
+<img width="800"  alt="image" src="https://github.com/user-attachments/assets/d6f3865d-c8d1-40ce-84d1-96cfd0f0095c" />
 
 ### Estructura lògica (la crea el format del SO)
 
@@ -58,6 +64,8 @@ a quin fitxer, quins estan lliures i quins són defectuosos.
 - Un fitxer ocupa un o més clústers; encara que sigui més petit que un clúster, l'ocupa sencer → l'espai
   sobrant es perd (**fragmentació interna** o *slack*). Clúster gran = menys entrades de metadades però més
   malbaratament amb fitxers petits.
+
+<img width="800"  alt="image" src="https://github.com/user-attachments/assets/6670fab4-79a6-4ef4-8039-c45fefa47aaa" />
 
 ## 7.4. Rutes o camins (*paths*)
 
@@ -120,6 +128,18 @@ separen amb `\` (Windows/CMD) o `/` (Linux, i també Windows en molts contextos)
 1. Diferència entre sector i clúster. Quin el defineix el maquinari i quin el SO?
 2. Què és el BPB i on es troba?
 3. Escriu la ruta absoluta i una de relativa (des de `/princip/docs`) per a `word/`.
+
+```
+/
+└── princip
+    ├── docs
+    │   ├── doc1.txt
+    │   └── word/
+    └── apunts
+        └── sistemes
+            └── tema1.odt
+```
+
 4. A Linux, quantes lletres d'unitat hi ha? Com s'hi accedeix a una memòria USB?
 5. Quin risc té triar una mida de clúster molt gran en un disc amb molts fitxers petits?
 
