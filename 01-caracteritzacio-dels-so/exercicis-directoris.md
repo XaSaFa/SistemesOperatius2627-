@@ -1,7 +1,5 @@
 # Operacions amb directoris — Linux i Windows
 
-Nom i cognoms:
-
 ## 1. Referència d'ordres
 
 ### Linux (Bash)
@@ -48,7 +46,83 @@ cd ..
 
 ---
 
-## 2. Exercicis
+## 2. Navegació amb `.`, `..` i `~`
+
+Un punt clau que sovint es passa per alt: **`.` i `..` no són «trucs» del shell, són entrades reals que existeixen dins de cada directori** del sistema d'arxius. Quan es crea un directori, el SO hi afegeix automàticament aquestes dues entrades especials. `~`, en canvi, és una altra cosa: una drecera que interpreta el *shell* (Bash), no una entrada del sistema d'arxius.
+
+### `.` — el directori actual
+
+És una entrada que **apunta cap al mateix directori** on es troba. Serveix per dir «aquí mateix, on soc ara» sense haver d'escriure el nom o la ruta.
+
+- `ls .` → és el mateix que `ls` sol: llista el directori actual.
+- **Ús més important: executar un programa que hi ha al directori actual.** A Linux, per seguretat, el directori actual **no** forma part del `$PATH` (la llista de llocs on el shell busca ordres). Per això, si tens un script `instal·la.sh` al directori on ets, **no n'hi ha prou** amb escriure `instal·la.sh`; cal dir explícitament «executa'l des d'aquí»:
+  ```bash
+  ./instal·la.sh
+  ```
+  Si oblides el `./`, et respondrà `ordre no trobada`, encara que el fitxer hi sigui.
+
+### `..` — el directori pare
+
+És una entrada que **apunta al directori immediatament superior** (el que «conté» l'actual).
+
+- `cd ..` → puja un nivell.
+- Es pot **encadenar i combinar** amb noms de directoris per construir rutes relatives sense haver d'escriure la ruta absoluta sencera.
+
+**Cas especial:** al directori arrel (`/`), `..` apunta **a ell mateix** — `/` no té pare, així que és l'única entrada on `.` i `..` coincideixen.
+
+### `~` — drecera al directori *home*
+
+A diferència de `.`/`..`, `~` **no existeix com a entrada al disc**: és el *shell* qui, en veure aquest símbol en una ruta, el substitueix pel camí del directori personal de l'usuari **abans** d'executar l'ordre.
+
+- `~` → `/home/anna` (el teu propi home)
+- `~/Documents` → `/home/anna/Documents`
+- `~pere` → el home d'un **altre** usuari, `/home/pere` (útil si tens permisos per mirar-hi)
+- `cd` sense res, o `cd ~` → et porta al teu home (vegeu la taula de referència)
+
+### Combinant-les en un exemple real
+
+Partim d'aquest arbre i estàs a `practiques/linux`:
+
+```
+/home/anna/
+├── Documents/
+│   ├── 2023/
+│   └── 2024/
+│       └── notes/
+└── practiques/
+    └── linux/   ← ets aquí
+```
+
+| Vols anar a… | Ruta absoluta | Ruta relativa (amb `..`) |
+|---|---|---|
+| `practiques` (el pare) | `/home/anna/practiques` | `..` |
+| `anna` (el pare del pare) | `/home/anna` | `../..` |
+| `Documents/2024/notes` | `/home/anna/Documents/2024/notes` | `../../Documents/2024/notes` |
+| El teu home, sigui on sigui que estiguis | — | `~` |
+
+Es llegeix: `../..` → «puja dos nivells (de `linux` a `practiques`, i de `practiques` a `anna`)»; a partir d'aquí, `/Documents/2024/notes` baixa pel camí normal.
+
+### Una quarta, de propina: `cd -`
+
+No és un caràcter de ruta sinó un argument especial de `cd`: et porta al **directori on eres just abans** (el shell el guarda a la variable `$OLDPWD`). Útil per anar i tornar entre dos llocs sense escriure la ruta dues vegades:
+```bash
+cd /var/log
+cd ~/practiques
+cd -        # torna a /var/log
+cd -        # torna a ~/practiques
+```
+
+### I a Windows?
+
+| Símbol | CMD / PowerShell |
+|---|---|
+| `.` | **Funciona igual** (FAT/NTFS també tenen aquestes entrades). `.\script.bat` és equivalent a `./script.sh`, tot i que a CMD sol no cal el `.\` per executar-lo. |
+| `..` | **Funciona igual**: `cd ..` puja un nivell, i es pot encadenar (`cd ..\..`). |
+| `~` | **No existeix a CMD** (no té cap significat com a ruta; només apareix en variables de *batch* com `%~dp0`, que és una altra cosa). **Sí que funciona a PowerShell** (`cd ~` et porta al home), perquè PowerShell l'ha adoptat expressament. A CMD, el «home» s'escriu amb la variable `%USERPROFILE%`. |
+
+---
+
+## 3. Exercicis
 
 ### A. Ordres soltes — Linux
 
