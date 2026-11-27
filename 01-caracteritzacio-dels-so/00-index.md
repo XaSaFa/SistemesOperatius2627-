@@ -17,8 +17,8 @@
 | 05 | [Gestió de la memòria](05-gestio-de-memoria.md) | CA1, CA3 |
 | 06 | [Gestió d'entrada/sortida i interfícies d'usuari](06-gestio-es-i-interficies.md) | CA1 |
 | 07 | [El sistema d'arxius: conceptes](07-sistemes-d-arxius-conceptes.md) | CA4 |
-| 7.1 | [Pràctica: operacions amb directoris (Linux i Windows)](07.1-operacions-amb-directoris.md) | CA4 |
-| 7.2 | [Pràctica: operacions amb fitxers (Linux i Windows)](07.2-operacions-amb-fitxers.md) | CA4 |
+| 7.1 | [Pràctica: operacions amb directoris i fitxers (Linux)](07.1-operacions-linux.md) | CA4 |
+| 7.2 | [Pràctica: operacions amb directoris i fitxers (Windows)](07.2-operacions-windows.md) | CA4 |
 | 08 | [Arxius, directoris, atributs i permisos](08-arxius-directoris-atributs-i-permisos.md) | CA5, CA6 |
 | 09 | [Tipus de sistemes d'arxius i sistemes transaccionals](09-tipus-de-sistemes-d-arxius.md) | CA4, CA7 |
 | 10 | [Tipus de sistemes operatius i SO actuals](10-tipus-de-so-i-so-actuals.md) | CA1 |

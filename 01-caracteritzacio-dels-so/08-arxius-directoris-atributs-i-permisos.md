@@ -1,6 +1,6 @@
 [🏠 Inici](../README.md) › [RA1 · Caracterització dels sistemes operatius](00-index.md) › **8. Arxius, directoris, atributs i permisos**
 
-[⬅ Anterior: Operacions amb fitxers](07.2-operacions-amb-fitxers.md) · [Següent: Tipus de sistemes d'arxius ➡](09-tipus-de-sistemes-d-arxius.md)
+[⬅ Anterior: Operacions a Windows](07.2-operacions-windows.md) · [Següent: Tipus de sistemes d'arxius ➡](09-tipus-de-sistemes-d-arxius.md)
 
 # 8. Arxius, directoris, atributs i permisos
 
@@ -177,4 +177,4 @@ ordre `icacls`. Es tracten a
 
 ---
 
-[⬅ Anterior: Operacions amb fitxers](07.2-operacions-amb-fitxers.md) · [Següent: Tipus de sistemes d'arxius ➡](09-tipus-de-sistemes-d-arxius.md)
+[⬅ Anterior: Operacions a Windows](07.2-operacions-windows.md) · [Següent: Tipus de sistemes d'arxius ➡](09-tipus-de-sistemes-d-arxius.md)
